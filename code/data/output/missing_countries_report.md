@@ -1,0 +1,255 @@
+# Missing Countries Report
+
+## Countries that could not be matched:
+
+- South Georgia: No match found
+- Wallis and Futuna: No match found
+- Pitcairn Islands: No match found
+- Caribbean Netherlands: No match found
+- Northern Mariana Islands: No match found
+- Saint Barthélemy: No match found
+- Guernsey: No match found
+- Svalbard and Jan Mayen: No match found
+- Faroe Islands: No match found
+- Palestine: No match found
+- Aruba: No match found
+- Cook Islands: No match found
+- Christmas Island: No match found
+- Tokelau: No match found
+- Réunion: No match found
+- Montserrat: No match found
+- Antarctica: No match found
+- Puerto Rico: No match found
+- Mayotte: No match found
+- Norfolk Island: No match found
+- Bouvet Island: No match found
+- Isle of Man: No match found
+- Greenland: No match found
+- French Southern and Antarctic Lands: No match found
+- São Tomé and Príncipe: No match found
+- Saint Pierre and Miquelon: No match found
+- Macau: No match found
+- Sint Maarten: No match found
+- Turks and Caicos Islands: No match found
+- Cocos (Keeling) Islands: No match found
+- Western Sahara: No match found
+- French Polynesia: No match found
+- Guadeloupe: No match found
+- Gibraltar: No match found
+- New Caledonia: No match found
+- Saint Helena, Ascension and Tristan da Cunha: No match found
+- British Virgin Islands: No match found
+- Niue: No match found
+- Heard Island and McDonald Islands: No match found
+- Hong Kong: No match found
+- Curaçao: No match found
+- Åland Islands: No match found
+- United States Minor Outlying Islands: No match found
+- Falkland Islands: No match found
+- Jersey: No match found
+- Bermuda: No match found
+- British Indian Ocean Territory: No match found
+- Kosovo: No match found
+- Cayman Islands: No match found
+- Guam: No match found
+- Saint Martin: No match found
+- Anguilla: No match found
+
+
+## Available keys in world data:
+
+- Afghanistan
+- Albania
+- Algeria
+- Andorra
+- Angola
+- Antigua and Barbuda
+- Argentina
+- Armenia
+- Australia
+- Austria
+- Azerbaijan
+- Bahrain
+- Bangladesh
+- Barbados
+- Belarus
+- Belgium
+- Belize
+- Benin
+- Bhutan
+- Bolivia
+- Bosnia and Herzegovina
+- Botswana
+- Brazil
+- Brunei
+- Bulgaria
+- Burkina Faso
+- Burundi
+- Cambodia
+- Cameroon
+- Canada
+- Cape Verde
+- Central African Republic
+- Chad
+- Chile
+- China
+- Colombia
+- Comoros
+- Costa Rica
+- Croatia
+- Cuba
+- Cyprus
+- Czech Republic
+- Democratic Republic of the Congo
+- Denmark
+- Djibouti
+- Dominica
+- Dominican Republic
+- East Timor
+- Ecuador
+- Egypt
+- El Salvador
+- Equatorial Guinea
+- Eritrea
+- Estonia
+- Eswatini
+- Ethiopia
+- Federated States of Micronesia
+- Fiji
+- Finland
+- France
+- Gabon
+- Georgia
+- Germany
+- Ghana
+- Greece
+- Grenada
+- Guatemala
+- Guinea
+- Guinea-Bissau
+- Guyana
+- Haiti
+- Honduras
+- Hungary
+- Iceland
+- India
+- Indonesia
+- Iran
+- Iraq
+- Israel
+- Italy
+- Ivory Coast
+- Jamaica
+- Japan
+- Jordan
+- Kazakhstan
+- Kenya
+- Kiribati
+- Kuwait
+- Kyrgyzstan
+- Laos
+- Latvia
+- Lebanon
+- Lesotho
+- Liberia
+- Libya
+- Liechtenstein
+- Lithuania
+- Luxembourg
+- Madagascar
+- Malawi
+- Malaysia
+- Maldives
+- Mali
+- Malta
+- Marshall Islands
+- Mauritania
+- Mauritius
+- Mexico
+- Moldova
+- Monaco
+- Mongolia
+- Montenegro
+- Morocco
+- Mozambique
+- Myanmar
+- Namibia
+- Nauru
+- Nepal
+- Netherlands
+- New Zealand
+- Nicaragua
+- Niger
+- Nigeria
+- North Korea
+- North Macedonia
+- Norway
+- Oman
+- Pakistan
+- Palau
+- Palestinian National Authority
+- Panama
+- Papua New Guinea
+- Paraguay
+- Peru
+- Philippines
+- Poland
+- Portugal
+- Qatar
+- Republic of Ireland
+- Republic of the Congo
+- Romania
+- Russia
+- Rwanda
+- Saint Kitts and Nevis
+- Saint Lucia
+- Saint Vincent and the Grenadines
+- Samoa
+- San Marino
+- Saudi Arabia
+- Senegal
+- Serbia
+- Seychelles
+- Sierra Leone
+- Singapore
+- Slovakia
+- Slovenia
+- Solomon Islands
+- Somalia
+- South Africa
+- South Korea
+- South Sudan
+- Spain
+- Sri Lanka
+- Sudan
+- Suriname
+- Sweden
+- Switzerland
+- Syria
+- S�����������
+- Tajikistan
+- Tanzania
+- Thailand
+- The Bahamas
+- The Gambia
+- Togo
+- Tonga
+- Trinidad and Tobago
+- Tunisia
+- Turkey
+- Turkmenistan
+- Tuvalu
+- Uganda
+- Ukraine
+- United Arab Emirates
+- United Kingdom
+- United States
+- Uruguay
+- Uzbekistan
+- Vanuatu
+- Vatican City
+- Venezuela
+- Vietnam
+- Yemen
+- Zambia
+- Zimbabwe

@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "code"
+version = "0.1.0"
+description = ""
+authors = ["Akram Meraghni <akram-el-wathek.meraghni@ensea.fr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+requests = "^2.32.3"
+dotenv = "^0.9.9"
+ratelimit = "^2.2.1"
+fuzzywuzzy = "^0.18.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
