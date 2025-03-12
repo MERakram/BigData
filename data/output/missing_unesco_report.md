@@ -1,0 +1,261 @@
+# Missing Unesco Data Report
+
+## Countries that could not be matched with UNESCO data:
+
+- South Georgia: No match found
+- Grenada: No match found
+- Switzerland: No match found
+- Sierra Leone: No match found
+- Hungary: No match found
+- Taiwan: No match found
+- Wallis and Futuna: No match found
+- Barbados: No match found
+- Pitcairn Islands: No match found
+- Ivory Coast: No match found
+- Tunisia: No match found
+- Italy: No match found
+- Benin: No match found
+- Indonesia: No match found
+- Cape Verde: No match found
+- Saint Kitts and Nevis: No match found
+- Laos: No match found
+- Caribbean Netherlands: No match found
+- Uganda: No match found
+- Andorra: No match found
+- Burundi: No match found
+- South Africa: No match found
+- France: No match found
+- Libya: No match found
+- Mexico: No match found
+- Gabon: No match found
+- Northern Mariana Islands: No match found
+- North Macedonia: No match found
+- China: No match found
+- Yemen: No match found
+- Saint Barthélemy: No match found
+- Guernsey: No match found
+- Solomon Islands: No match found
+- Svalbard and Jan Mayen: No match found
+- Faroe Islands: No match found
+- Uzbekistan: No match found
+- Egypt: No match found
+- Senegal: No match found
+- Sri Lanka: No match found
+- Palestine: No match found
+- Bangladesh: No match found
+- Peru: No match found
+- Singapore: No match found
+- Turkey: No match found
+- Afghanistan: No match found
+- Aruba: No match found
+- Cook Islands: No match found
+- United Kingdom: No match found
+- Zambia: No match found
+- Finland: No match found
+- Niger: No match found
+- Christmas Island: No match found
+- Tokelau: No match found
+- Guinea-Bissau: No match found
+- Azerbaijan: No match found
+- Réunion: No match found
+- Djibouti: No match found
+- North Korea: No match found
+- Mauritius: No match found
+- Montserrat: No match found
+- United States Virgin Islands: No match found
+- Colombia: No match found
+- Greece: No match found
+- Croatia: No match found
+- Morocco: No match found
+- Algeria: No match found
+- Antarctica: No match found
+- Netherlands: No match found
+- Sudan: No match found
+- Fiji: No match found
+- Liechtenstein: No match found
+- Nepal: No match found
+- Puerto Rico: No match found
+- Georgia: No match found
+- Pakistan: No match found
+- Monaco: No match found
+- Botswana: No match found
+- Lebanon: No match found
+- Papua New Guinea: No match found
+- Mayotte: No match found
+- Dominican Republic: No match found
+- Norfolk Island: No match found
+- Bouvet Island: No match found
+- Qatar: No match found
+- Madagascar: No match found
+- India: No match found
+- Syria: No match found
+- Montenegro: No match found
+- Eswatini: No match found
+- Paraguay: No match found
+- El Salvador: No match found
+- Ukraine: No match found
+- Isle of Man: No match found
+- Namibia: No match found
+- United Arab Emirates: No match found
+- Bulgaria: No match found
+- Greenland: No match found
+- Germany: No match found
+- Cambodia: No match found
+- Iraq: No match found
+- French Southern and Antarctic Lands: No match found
+- Sweden: No match found
+- Cuba: No match found
+- Kyrgyzstan: No match found
+- Russia: No match found
+- Malaysia: No match found
+- São Tomé and Príncipe: No match found
+- Cyprus: No match found
+- Canada: No match found
+- Malawi: No match found
+- Saudi Arabia: No match found
+- Bosnia and Herzegovina: No match found
+- Ethiopia: No match found
+- Spain: No match found
+- Slovenia: No match found
+- Oman: No match found
+- Saint Pierre and Miquelon: No match found
+- Macau: No match found
+- San Marino: No match found
+- Lesotho: No match found
+- Marshall Islands: No match found
+- Sint Maarten: No match found
+- Iceland: No match found
+- Luxembourg: No match found
+- Argentina: No match found
+- Turks and Caicos Islands: No match found
+- Nauru: No match found
+- Cocos (Keeling) Islands: No match found
+- Western Sahara: No match found
+- Dominica: No match found
+- Costa Rica: No match found
+- Australia: No match found
+- Thailand: No match found
+- Haiti: No match found
+- Tuvalu: No match found
+- Honduras: No match found
+- Equatorial Guinea: No match found
+- Saint Lucia: No match found
+- French Polynesia: No match found
+- Belarus: No match found
+- Latvia: No match found
+- Palau: No match found
+- Guadeloupe: No match found
+- Philippines: No match found
+- Gibraltar: No match found
+- Denmark: No match found
+- Cameroon: No match found
+- Guinea: No match found
+- Bahrain: No match found
+- Suriname: No match found
+- DR Congo: No match found
+- Somalia: No match found
+- Czechia: No match found
+- New Caledonia: No match found
+- Vanuatu: No match found
+- Saint Helena, Ascension and Tristan da Cunha: No match found
+- Togo: No match found
+- British Virgin Islands: No match found
+- Kenya: No match found
+- Niue: No match found
+- Heard Island and McDonald Islands: No match found
+- Rwanda: No match found
+- Estonia: No match found
+- Romania: No match found
+- Trinidad and Tobago: No match found
+- Guyana: No match found
+- Timor-Leste: No match found
+- Vietnam: No match found
+- Uruguay: No match found
+- Vatican City: No match found
+- Hong Kong: No match found
+- Austria: No match found
+- Antigua and Barbuda: No match found
+- Turkmenistan: No match found
+- Mozambique: No match found
+- Panama: No match found
+- Micronesia: No match found
+- Ireland: No match found
+- Curaçao: No match found
+- French Guiana: No match found
+- Norway: No match found
+- Åland Islands: No match found
+- Central African Republic: No match found
+- Burkina Faso: No match found
+- Eritrea: No match found
+- Tanzania: No match found
+- South Korea: No match found
+- Jordan: No match found
+- Mauritania: No match found
+- Lithuania: No match found
+- United States Minor Outlying Islands: No match found
+- Slovakia: No match found
+- Angola: No match found
+- Kazakhstan: No match found
+- Moldova: No match found
+- Mali: No match found
+- Falkland Islands: No match found
+- Armenia: No match found
+- Samoa: No match found
+- Jersey: No match found
+- Japan: No match found
+- Bolivia: No match found
+- Chile: No match found
+- United States: No match found
+- Saint Vincent and the Grenadines: No match found
+- Bermuda: No match found
+- Seychelles: No match found
+- British Indian Ocean Territory: No match found
+- Guatemala: No match found
+- Ecuador: No match found
+- Martinique: No match found
+- Tajikistan: No match found
+- Malta: No match found
+- Gambia: No match found
+- Nigeria: No match found
+- Bahamas: No match found
+- Kosovo: No match found
+- Kuwait: No match found
+- Maldives: No match found
+- South Sudan: No match found
+- Iran: No match found
+- Albania: No match found
+- Brazil: No match found
+- Serbia: No match found
+- Belize: No match found
+- Myanmar: No match found
+- Bhutan: No match found
+- Venezuela: No match found
+- Liberia: No match found
+- Jamaica: No match found
+- Poland: No match found
+- Cayman Islands: No match found
+- Brunei: No match found
+- Comoros: No match found
+- Guam: No match found
+- Tonga: No match found
+- Kiribati: No match found
+- Ghana: No match found
+- Chad: No match found
+- Zimbabwe: No match found
+- Saint Martin: No match found
+- Mongolia: No match found
+- Portugal: No match found
+- American Samoa: No match found
+- Republic of the Congo: No match found
+- Belgium: No match found
+- Israel: No match found
+- New Zealand: No match found
+- Nicaragua: No match found
+- Anguilla: No match found
+
+
+## Available keys in UNESCO data:
+
+- Cultural
+- Mixed
+- Natural

@@ -688,6 +688,18 @@
       "_match_method": "name_match",
       "_match_key": "switzerland",
       "_original_world_name": "Switzerland"
+    },
+    "happiness_data": {
+      "Overall rank": 6,
+      "Score": 7.48,
+      "GDP per capita": 1.452,
+      "Social support": 1.526,
+      "Healthy life expectancy": 1.052,
+      "Freedom to make life choices": 0.572,
+      "Generosity": 0.263,
+      "Perceptions of corruption": 0.343,
+      "_match_method": "direct_name_match",
+      "_match_key": "switzerland"
     }
   },
   {
@@ -933,6 +945,18 @@
       "_match_method": "name_match",
       "_match_key": "sierra leone",
       "_original_world_name": "Sierra Leone"
+    },
+    "happiness_data": {
+      "Overall rank": 129,
+      "Score": 4.374,
+      "GDP per capita": 0.268,
+      "Social support": 0.841,
+      "Healthy life expectancy": 0.242,
+      "Freedom to make life choices": 0.309,
+      "Generosity": 0.252,
+      "Perceptions of corruption": 0.045,
+      "_match_method": "direct_name_match",
+      "_match_key": "sierra leone"
     }
   },
   {
@@ -1186,6 +1210,18 @@
       "_match_method": "name_match",
       "_match_key": "hungary",
       "_original_world_name": "Hungary"
+    },
+    "happiness_data": {
+      "Overall rank": 62,
+      "Score": 5.758,
+      "GDP per capita": 1.201,
+      "Social support": 1.41,
+      "Healthy life expectancy": 0.828,
+      "Freedom to make life choices": 0.199,
+      "Generosity": 0.081,
+      "Perceptions of corruption": 0.02,
+      "_match_method": "direct_name_match",
+      "_match_key": "hungary"
     }
   },
   {
@@ -1390,6 +1426,18 @@
     "postalCode": {
       "format": "#####",
       "regex": "^(\\d{5})$"
+    },
+    "happiness_data": {
+      "Overall rank": 25,
+      "Score": 6.446,
+      "GDP per capita": 1.368,
+      "Social support": 1.43,
+      "Healthy life expectancy": 0.914,
+      "Freedom to make life choices": 0.351,
+      "Generosity": 0.242,
+      "Perceptions of corruption": 0.097,
+      "_match_method": "direct_name_match",
+      "_match_key": "taiwan"
     }
   },
   {
@@ -2270,6 +2318,18 @@
       "_match_method": "name_match",
       "_match_key": "côte d'ivoire",
       "_original_world_name": "Ivory Coast"
+    },
+    "happiness_data": {
+      "Overall rank": 99,
+      "Score": 4.944,
+      "GDP per capita": 0.569,
+      "Social support": 0.808,
+      "Healthy life expectancy": 0.232,
+      "Freedom to make life choices": 0.352,
+      "Generosity": 0.154,
+      "Perceptions of corruption": 0.09,
+      "_match_method": "direct_name_match",
+      "_match_key": "ivory coast"
     }
   },
   {
@@ -2520,6 +2580,18 @@
       "_match_method": "name_match",
       "_match_key": "tunisia",
       "_original_world_name": "Tunisia"
+    },
+    "happiness_data": {
+      "Overall rank": 124,
+      "Score": 4.461,
+      "GDP per capita": 0.921,
+      "Social support": 1.0,
+      "Healthy life expectancy": 0.815,
+      "Freedom to make life choices": 0.167,
+      "Generosity": 0.059,
+      "Perceptions of corruption": 0.055,
+      "_match_method": "direct_name_match",
+      "_match_key": "tunisia"
     }
   },
   {
@@ -2773,6 +2845,18 @@
       "_match_method": "name_match",
       "_match_key": "italy",
       "_original_world_name": "Italy"
+    },
+    "happiness_data": {
+      "Overall rank": 36,
+      "Score": 6.223,
+      "GDP per capita": 1.294,
+      "Social support": 1.488,
+      "Healthy life expectancy": 1.039,
+      "Freedom to make life choices": 0.231,
+      "Generosity": 0.158,
+      "Perceptions of corruption": 0.03,
+      "_match_method": "direct_name_match",
+      "_match_key": "italy"
     }
   },
   {
@@ -3021,6 +3105,18 @@
       "_match_method": "name_match",
       "_match_key": "benin",
       "_original_world_name": "Benin"
+    },
+    "happiness_data": {
+      "Overall rank": 102,
+      "Score": 4.883,
+      "GDP per capita": 0.393,
+      "Social support": 0.437,
+      "Healthy life expectancy": 0.397,
+      "Freedom to make life choices": 0.349,
+      "Generosity": 0.175,
+      "Perceptions of corruption": 0.082,
+      "_match_method": "direct_name_match",
+      "_match_key": "benin"
     }
   },
   {
@@ -3274,6 +3370,18 @@
       "_match_method": "name_match",
       "_match_key": "indonesia",
       "_original_world_name": "Indonesia"
+    },
+    "happiness_data": {
+      "Overall rank": 92,
+      "Score": 5.192,
+      "GDP per capita": 0.931,
+      "Social support": 1.203,
+      "Healthy life expectancy": 0.66,
+      "Freedom to make life choices": 0.491,
+      "Generosity": 0.498,
+      "Perceptions of corruption": 0.028,
+      "_match_method": "direct_name_match",
+      "_match_key": "indonesia"
     }
   },
   {
@@ -4007,6 +4115,18 @@
       "_match_method": "name_match",
       "_match_key": "laos",
       "_original_world_name": "Laos"
+    },
+    "happiness_data": {
+      "Overall rank": 105,
+      "Score": 4.796,
+      "GDP per capita": 0.764,
+      "Social support": 1.03,
+      "Healthy life expectancy": 0.551,
+      "Freedom to make life choices": 0.547,
+      "Generosity": 0.266,
+      "Perceptions of corruption": 0.164,
+      "_match_method": "direct_name_match",
+      "_match_key": "laos"
     }
   },
   {
@@ -4463,6 +4583,18 @@
       "_match_method": "name_match",
       "_match_key": "uganda",
       "_original_world_name": "Uganda"
+    },
+    "happiness_data": {
+      "Overall rank": 136,
+      "Score": 4.189,
+      "GDP per capita": 0.332,
+      "Social support": 1.069,
+      "Healthy life expectancy": 0.443,
+      "Freedom to make life choices": 0.356,
+      "Generosity": 0.252,
+      "Perceptions of corruption": 0.06,
+      "_match_method": "direct_name_match",
+      "_match_key": "uganda"
     }
   },
   {
@@ -4952,6 +5084,18 @@
       "_match_method": "name_match",
       "_match_key": "burundi",
       "_original_world_name": "Burundi"
+    },
+    "happiness_data": {
+      "Overall rank": 145,
+      "Score": 3.775,
+      "GDP per capita": 0.046,
+      "Social support": 0.447,
+      "Healthy life expectancy": 0.38,
+      "Freedom to make life choices": 0.22,
+      "Generosity": 0.176,
+      "Perceptions of corruption": 0.18,
+      "_match_method": "direct_name_match",
+      "_match_key": "burundi"
     }
   },
   {
@@ -5258,6 +5402,18 @@
       "_match_method": "name_match",
       "_match_key": "south africa",
       "_original_world_name": "South Africa"
+    },
+    "happiness_data": {
+      "Overall rank": 106,
+      "Score": 4.722,
+      "GDP per capita": 0.96,
+      "Social support": 1.351,
+      "Healthy life expectancy": 0.469,
+      "Freedom to make life choices": 0.389,
+      "Generosity": 0.13,
+      "Perceptions of corruption": 0.055,
+      "_match_method": "direct_name_match",
+      "_match_key": "south africa"
     }
   },
   {
@@ -5527,6 +5683,18 @@
       "_match_method": "name_match",
       "_match_key": "france",
       "_original_world_name": "France"
+    },
+    "happiness_data": {
+      "Overall rank": 24,
+      "Score": 6.592,
+      "GDP per capita": 1.324,
+      "Social support": 1.472,
+      "Healthy life expectancy": 1.045,
+      "Freedom to make life choices": 0.436,
+      "Generosity": 0.111,
+      "Perceptions of corruption": 0.183,
+      "_match_method": "direct_name_match",
+      "_match_key": "france"
     }
   },
   {
@@ -5771,6 +5939,18 @@
       "_match_method": "name_match",
       "_match_key": "libya",
       "_original_world_name": "Libya"
+    },
+    "happiness_data": {
+      "Overall rank": 72,
+      "Score": 5.525,
+      "GDP per capita": 1.044,
+      "Social support": 1.303,
+      "Healthy life expectancy": 0.673,
+      "Freedom to make life choices": 0.416,
+      "Generosity": 0.133,
+      "Perceptions of corruption": 0.152,
+      "_match_method": "direct_name_match",
+      "_match_key": "libya"
     }
   },
   {
@@ -6024,6 +6204,18 @@
       "_match_method": "name_match",
       "_match_key": "mexico",
       "_original_world_name": "Mexico"
+    },
+    "happiness_data": {
+      "Overall rank": 23,
+      "Score": 6.595,
+      "GDP per capita": 1.07,
+      "Social support": 1.323,
+      "Healthy life expectancy": 0.861,
+      "Freedom to make life choices": 0.433,
+      "Generosity": 0.074,
+      "Perceptions of corruption": 0.073,
+      "_match_method": "direct_name_match",
+      "_match_key": "mexico"
     }
   },
   {
@@ -6271,6 +6463,18 @@
       "_match_method": "name_match",
       "_match_key": "gabon",
       "_original_world_name": "Gabon"
+    },
+    "happiness_data": {
+      "Overall rank": 104,
+      "Score": 4.799,
+      "GDP per capita": 1.057,
+      "Social support": 1.183,
+      "Healthy life expectancy": 0.571,
+      "Freedom to make life choices": 0.295,
+      "Generosity": 0.043,
+      "Perceptions of corruption": 0.055,
+      "_match_method": "direct_name_match",
+      "_match_key": "gabon"
     }
   },
   {
@@ -6708,6 +6912,18 @@
       "_match_method": "name_match",
       "_match_key": "north macedonia",
       "_original_world_name": "North Macedonia"
+    },
+    "happiness_data": {
+      "Overall rank": 84,
+      "Score": 5.274,
+      "GDP per capita": 0.983,
+      "Social support": 1.294,
+      "Healthy life expectancy": 0.838,
+      "Freedom to make life choices": 0.345,
+      "Generosity": 0.185,
+      "Perceptions of corruption": 0.034,
+      "_match_method": "direct_name_match",
+      "_match_key": "north macedonia"
     }
   },
   {
@@ -6976,6 +7192,18 @@
       "_match_method": "name_match",
       "_match_key": "china",
       "_original_world_name": "China"
+    },
+    "happiness_data": {
+      "Overall rank": 93,
+      "Score": 5.191,
+      "GDP per capita": 1.029,
+      "Social support": 1.125,
+      "Healthy life expectancy": 0.893,
+      "Freedom to make life choices": 0.521,
+      "Generosity": 0.058,
+      "Perceptions of corruption": 0.1,
+      "_match_method": "direct_name_match",
+      "_match_key": "china"
     }
   },
   {
@@ -7220,6 +7448,18 @@
       "_match_method": "name_match",
       "_match_key": "yemen",
       "_original_world_name": "Yemen"
+    },
+    "happiness_data": {
+      "Overall rank": 151,
+      "Score": 3.38,
+      "GDP per capita": 0.287,
+      "Social support": 1.163,
+      "Healthy life expectancy": 0.463,
+      "Freedom to make life choices": 0.143,
+      "Generosity": 0.108,
+      "Perceptions of corruption": 0.077,
+      "_match_method": "direct_name_match",
+      "_match_key": "yemen"
     }
   },
   {
@@ -8527,6 +8767,18 @@
       "_match_method": "name_match",
       "_match_key": "uzbekistan",
       "_original_world_name": "Uzbekistan"
+    },
+    "happiness_data": {
+      "Overall rank": 41,
+      "Score": 6.174,
+      "GDP per capita": 0.745,
+      "Social support": 1.529,
+      "Healthy life expectancy": 0.756,
+      "Freedom to make life choices": 0.631,
+      "Generosity": 0.322,
+      "Perceptions of corruption": 0.24,
+      "_match_method": "direct_name_match",
+      "_match_key": "uzbekistan"
     }
   },
   {
@@ -8778,6 +9030,18 @@
       "_match_method": "name_match",
       "_match_key": "egypt",
       "_original_world_name": "Egypt"
+    },
+    "happiness_data": {
+      "Overall rank": 137,
+      "Score": 4.166,
+      "GDP per capita": 0.913,
+      "Social support": 1.039,
+      "Healthy life expectancy": 0.644,
+      "Freedom to make life choices": 0.241,
+      "Generosity": 0.076,
+      "Perceptions of corruption": 0.067,
+      "_match_method": "direct_name_match",
+      "_match_key": "egypt"
     }
   },
   {
@@ -9031,6 +9295,18 @@
       "_match_method": "name_match",
       "_match_key": "senegal",
       "_original_world_name": "Senegal"
+    },
+    "happiness_data": {
+      "Overall rank": 111,
+      "Score": 4.681,
+      "GDP per capita": 0.45,
+      "Social support": 1.134,
+      "Healthy life expectancy": 0.571,
+      "Freedom to make life choices": 0.292,
+      "Generosity": 0.153,
+      "Perceptions of corruption": 0.072,
+      "_match_method": "direct_name_match",
+      "_match_key": "senegal"
     }
   },
   {
@@ -9287,6 +9563,18 @@
       "_match_method": "name_match",
       "_match_key": "sri lanka",
       "_original_world_name": "Sri Lanka"
+    },
+    "happiness_data": {
+      "Overall rank": 130,
+      "Score": 4.366,
+      "GDP per capita": 0.949,
+      "Social support": 1.265,
+      "Healthy life expectancy": 0.831,
+      "Freedom to make life choices": 0.47,
+      "Generosity": 0.244,
+      "Perceptions of corruption": 0.047,
+      "_match_method": "direct_name_match",
+      "_match_key": "sri lanka"
     }
   },
   {
@@ -9514,6 +9802,18 @@
       "_match_method": "name_match",
       "_match_key": "palestine",
       "_original_world_name": "Palestinian National Authority"
+    },
+    "happiness_data": {
+      "Overall rank": 110,
+      "Score": 4.696,
+      "GDP per capita": 0.657,
+      "Social support": 1.247,
+      "Healthy life expectancy": 0.672,
+      "Freedom to make life choices": 0.225,
+      "Generosity": 0.103,
+      "Perceptions of corruption": 0.066,
+      "_match_method": "direct_name_match",
+      "_match_key": "palestine"
     }
   },
   {
@@ -9764,6 +10064,18 @@
       "_match_method": "name_match",
       "_match_key": "bangladesh",
       "_original_world_name": "Bangladesh"
+    },
+    "happiness_data": {
+      "Overall rank": 125,
+      "Score": 4.456,
+      "GDP per capita": 0.562,
+      "Social support": 0.928,
+      "Healthy life expectancy": 0.723,
+      "Freedom to make life choices": 0.527,
+      "Generosity": 0.166,
+      "Perceptions of corruption": 0.143,
+      "_match_method": "direct_name_match",
+      "_match_key": "bangladesh"
     }
   },
   {
@@ -10027,6 +10339,18 @@
       "_match_method": "name_match",
       "_match_key": "peru",
       "_original_world_name": "Peru"
+    },
+    "happiness_data": {
+      "Overall rank": 65,
+      "Score": 5.697,
+      "GDP per capita": 0.96,
+      "Social support": 1.274,
+      "Healthy life expectancy": 0.854,
+      "Freedom to make life choices": 0.455,
+      "Generosity": 0.083,
+      "Perceptions of corruption": 0.027,
+      "_match_method": "direct_name_match",
+      "_match_key": "peru"
     }
   },
   {
@@ -10281,6 +10605,18 @@
       "_match_method": "name_match",
       "_match_key": "singapore",
       "_original_world_name": "Singapore"
+    },
+    "happiness_data": {
+      "Overall rank": 34,
+      "Score": 6.262,
+      "GDP per capita": 1.572,
+      "Social support": 1.463,
+      "Healthy life expectancy": 1.141,
+      "Freedom to make life choices": 0.556,
+      "Generosity": 0.271,
+      "Perceptions of corruption": 0.453,
+      "_match_method": "direct_name_match",
+      "_match_key": "singapore"
     }
   },
   {
@@ -10539,6 +10875,18 @@
       "_match_method": "name_match",
       "_match_key": "turkey",
       "_original_world_name": "Turkey"
+    },
+    "happiness_data": {
+      "Overall rank": 79,
+      "Score": 5.373,
+      "GDP per capita": 1.183,
+      "Social support": 1.36,
+      "Healthy life expectancy": 0.808,
+      "Freedom to make life choices": 0.195,
+      "Generosity": 0.083,
+      "Perceptions of corruption": 0.106,
+      "_match_method": "direct_name_match",
+      "_match_key": "turkey"
     }
   },
   {
@@ -10795,6 +11143,18 @@
       "_match_method": "name_match",
       "_match_key": "afghanistan",
       "_original_world_name": "Afghanistan"
+    },
+    "happiness_data": {
+      "Overall rank": 154,
+      "Score": 3.203,
+      "GDP per capita": 0.35,
+      "Social support": 0.517,
+      "Healthy life expectancy": 0.361,
+      "Freedom to make life choices": 0.0,
+      "Generosity": 0.158,
+      "Perceptions of corruption": 0.025,
+      "_match_method": "direct_name_match",
+      "_match_key": "afghanistan"
     }
   },
   {
@@ -11457,6 +11817,18 @@
       "_match_method": "name_match",
       "_match_key": "united kingdom",
       "_original_world_name": "United Kingdom"
+    },
+    "happiness_data": {
+      "Overall rank": 15,
+      "Score": 7.054,
+      "GDP per capita": 1.333,
+      "Social support": 1.538,
+      "Healthy life expectancy": 0.996,
+      "Freedom to make life choices": 0.45,
+      "Generosity": 0.348,
+      "Perceptions of corruption": 0.278,
+      "_match_method": "direct_name_match",
+      "_match_key": "united kingdom"
     }
   },
   {
@@ -11712,6 +12084,18 @@
       "_match_method": "name_match",
       "_match_key": "zambia",
       "_original_world_name": "Zambia"
+    },
+    "happiness_data": {
+      "Overall rank": 138,
+      "Score": 4.107,
+      "GDP per capita": 0.578,
+      "Social support": 1.058,
+      "Healthy life expectancy": 0.426,
+      "Freedom to make life choices": 0.431,
+      "Generosity": 0.247,
+      "Perceptions of corruption": 0.087,
+      "_match_method": "direct_name_match",
+      "_match_key": "zambia"
     }
   },
   {
@@ -11969,6 +12353,18 @@
       "_match_method": "name_match",
       "_match_key": "finland",
       "_original_world_name": "Finland"
+    },
+    "happiness_data": {
+      "Overall rank": 1,
+      "Score": 7.769,
+      "GDP per capita": 1.34,
+      "Social support": 1.587,
+      "Healthy life expectancy": 0.986,
+      "Freedom to make life choices": 0.596,
+      "Generosity": 0.153,
+      "Perceptions of corruption": 0.393,
+      "_match_method": "direct_name_match",
+      "_match_key": "finland"
     }
   },
   {
@@ -12223,6 +12619,18 @@
       "_match_method": "name_match",
       "_match_key": "niger",
       "_original_world_name": "Niger"
+    },
+    "happiness_data": {
+      "Overall rank": 114,
+      "Score": 4.628,
+      "GDP per capita": 0.138,
+      "Social support": 0.774,
+      "Healthy life expectancy": 0.366,
+      "Freedom to make life choices": 0.318,
+      "Generosity": 0.188,
+      "Perceptions of corruption": 0.102,
+      "_match_method": "direct_name_match",
+      "_match_key": "niger"
     }
   },
   {
@@ -13125,6 +13533,18 @@
       "_match_method": "name_match",
       "_match_key": "azerbaijan",
       "_original_world_name": "Azerbaijan"
+    },
+    "happiness_data": {
+      "Overall rank": 90,
+      "Score": 5.208,
+      "GDP per capita": 1.043,
+      "Social support": 1.147,
+      "Healthy life expectancy": 0.769,
+      "Freedom to make life choices": 0.351,
+      "Generosity": 0.035,
+      "Perceptions of corruption": 0.182,
+      "_match_method": "direct_name_match",
+      "_match_key": "azerbaijan"
     }
   },
   {
@@ -14075,6 +14495,18 @@
       "_match_method": "name_match",
       "_match_key": "mauritius",
       "_original_world_name": "Mauritius"
+    },
+    "happiness_data": {
+      "Overall rank": 57,
+      "Score": 5.888,
+      "GDP per capita": 1.12,
+      "Social support": 1.402,
+      "Healthy life expectancy": 0.798,
+      "Freedom to make life choices": 0.498,
+      "Generosity": 0.215,
+      "Perceptions of corruption": 0.06,
+      "_match_method": "direct_name_match",
+      "_match_key": "mauritius"
     }
   },
   {
@@ -14711,6 +15143,18 @@
       "_match_method": "name_match",
       "_match_key": "colombia",
       "_original_world_name": "Colombia"
+    },
+    "happiness_data": {
+      "Overall rank": 43,
+      "Score": 6.125,
+      "GDP per capita": 0.985,
+      "Social support": 1.41,
+      "Healthy life expectancy": 0.841,
+      "Freedom to make life choices": 0.47,
+      "Generosity": 0.099,
+      "Perceptions of corruption": 0.034,
+      "_match_method": "direct_name_match",
+      "_match_key": "colombia"
     }
   },
   {
@@ -14964,6 +15408,18 @@
       "_match_method": "name_match",
       "_match_key": "greece",
       "_original_world_name": "Greece"
+    },
+    "happiness_data": {
+      "Overall rank": 82,
+      "Score": 5.287,
+      "GDP per capita": 1.181,
+      "Social support": 1.156,
+      "Healthy life expectancy": 0.999,
+      "Freedom to make life choices": 0.067,
+      "Generosity": 0.0,
+      "Perceptions of corruption": 0.034,
+      "_match_method": "direct_name_match",
+      "_match_key": "greece"
     }
   },
   {
@@ -15218,6 +15674,18 @@
       "_match_method": "name_match",
       "_match_key": "croatia",
       "_original_world_name": "Croatia"
+    },
+    "happiness_data": {
+      "Overall rank": 75,
+      "Score": 5.432,
+      "GDP per capita": 1.155,
+      "Social support": 1.266,
+      "Healthy life expectancy": 0.914,
+      "Freedom to make life choices": 0.296,
+      "Generosity": 0.119,
+      "Perceptions of corruption": 0.022,
+      "_match_method": "direct_name_match",
+      "_match_key": "croatia"
     }
   },
   {
@@ -15475,6 +15943,18 @@
       "_match_method": "name_match",
       "_match_key": "morocco",
       "_original_world_name": "Morocco"
+    },
+    "happiness_data": {
+      "Overall rank": 89,
+      "Score": 5.208,
+      "GDP per capita": 0.801,
+      "Social support": 0.782,
+      "Healthy life expectancy": 0.782,
+      "Freedom to make life choices": 0.418,
+      "Generosity": 0.036,
+      "Perceptions of corruption": 0.076,
+      "_match_method": "direct_name_match",
+      "_match_key": "morocco"
     }
   },
   {
@@ -15731,6 +16211,18 @@
       "_match_method": "name_match",
       "_match_key": "algeria",
       "_original_world_name": "Algeria"
+    },
+    "happiness_data": {
+      "Overall rank": 88,
+      "Score": 5.211,
+      "GDP per capita": 1.002,
+      "Social support": 1.16,
+      "Healthy life expectancy": 0.785,
+      "Freedom to make life choices": 0.086,
+      "Generosity": 0.073,
+      "Perceptions of corruption": 0.114,
+      "_match_method": "direct_name_match",
+      "_match_key": "algeria"
     }
   },
   {
@@ -16154,6 +16646,18 @@
       "_match_method": "name_match",
       "_match_key": "netherlands",
       "_original_world_name": "Netherlands"
+    },
+    "happiness_data": {
+      "Overall rank": 5,
+      "Score": 7.488,
+      "GDP per capita": 1.396,
+      "Social support": 1.522,
+      "Healthy life expectancy": 0.999,
+      "Freedom to make life choices": 0.557,
+      "Generosity": 0.322,
+      "Perceptions of corruption": 0.298,
+      "_match_method": "direct_name_match",
+      "_match_key": "netherlands"
     }
   },
   {
@@ -17154,6 +17658,18 @@
       "_match_method": "name_match",
       "_match_key": "nepal",
       "_original_world_name": "Nepal"
+    },
+    "happiness_data": {
+      "Overall rank": 100,
+      "Score": 4.913,
+      "GDP per capita": 0.446,
+      "Social support": 1.226,
+      "Healthy life expectancy": 0.677,
+      "Freedom to make life choices": 0.439,
+      "Generosity": 0.285,
+      "Perceptions of corruption": 0.089,
+      "_match_method": "direct_name_match",
+      "_match_key": "nepal"
     }
   },
   {
@@ -17611,6 +18127,18 @@
       "_match_method": "name_match",
       "_match_key": "georgia country",
       "_original_world_name": "Georgia"
+    },
+    "happiness_data": {
+      "Overall rank": 119,
+      "Score": 4.519,
+      "GDP per capita": 0.886,
+      "Social support": 0.666,
+      "Healthy life expectancy": 0.752,
+      "Freedom to make life choices": 0.346,
+      "Generosity": 0.043,
+      "Perceptions of corruption": 0.164,
+      "_match_method": "direct_name_match",
+      "_match_key": "georgia"
     }
   },
   {
@@ -17869,6 +18397,18 @@
       "_match_method": "name_match",
       "_match_key": "pakistan",
       "_original_world_name": "Pakistan"
+    },
+    "happiness_data": {
+      "Overall rank": 67,
+      "Score": 5.653,
+      "GDP per capita": 0.677,
+      "Social support": 0.886,
+      "Healthy life expectancy": 0.535,
+      "Freedom to make life choices": 0.313,
+      "Generosity": 0.22,
+      "Perceptions of corruption": 0.098,
+      "_match_method": "direct_name_match",
+      "_match_key": "pakistan"
     }
   },
   {
@@ -18352,6 +18892,18 @@
       "_match_method": "name_match",
       "_match_key": "botswana",
       "_original_world_name": "Botswana"
+    },
+    "happiness_data": {
+      "Overall rank": 148,
+      "Score": 3.488,
+      "GDP per capita": 1.041,
+      "Social support": 1.145,
+      "Healthy life expectancy": 0.538,
+      "Freedom to make life choices": 0.455,
+      "Generosity": 0.025,
+      "Perceptions of corruption": 0.1,
+      "_match_method": "direct_name_match",
+      "_match_key": "botswana"
     }
   },
   {
@@ -18607,6 +19159,18 @@
       "_match_method": "name_match",
       "_match_key": "lebanon",
       "_original_world_name": "Lebanon"
+    },
+    "happiness_data": {
+      "Overall rank": 91,
+      "Score": 5.197,
+      "GDP per capita": 0.987,
+      "Social support": 1.224,
+      "Healthy life expectancy": 0.815,
+      "Freedom to make life choices": 0.216,
+      "Generosity": 0.166,
+      "Perceptions of corruption": 0.027,
+      "_match_method": "direct_name_match",
+      "_match_key": "lebanon"
     }
   },
   {
@@ -19313,6 +19877,18 @@
       "_match_method": "name_match",
       "_match_key": "dominican republic",
       "_original_world_name": "Dominican Republic"
+    },
+    "happiness_data": {
+      "Overall rank": 77,
+      "Score": 5.425,
+      "GDP per capita": 1.015,
+      "Social support": 1.401,
+      "Healthy life expectancy": 0.779,
+      "Freedom to make life choices": 0.497,
+      "Generosity": 0.113,
+      "Perceptions of corruption": 0.101,
+      "_match_method": "direct_name_match",
+      "_match_key": "dominican republic"
     }
   },
   {
@@ -19923,6 +20499,18 @@
       "_match_method": "name_match",
       "_match_key": "qatar",
       "_original_world_name": "Qatar"
+    },
+    "happiness_data": {
+      "Overall rank": 29,
+      "Score": 6.374,
+      "GDP per capita": 1.684,
+      "Social support": 1.313,
+      "Healthy life expectancy": 0.871,
+      "Freedom to make life choices": 0.555,
+      "Generosity": 0.22,
+      "Perceptions of corruption": 0.167,
+      "_match_method": "direct_name_match",
+      "_match_key": "qatar"
     }
   },
   {
@@ -20175,6 +20763,18 @@
       "_match_method": "name_match",
       "_match_key": "madagascar",
       "_original_world_name": "Madagascar"
+    },
+    "happiness_data": {
+      "Overall rank": 143,
+      "Score": 3.933,
+      "GDP per capita": 0.274,
+      "Social support": 0.916,
+      "Healthy life expectancy": 0.555,
+      "Freedom to make life choices": 0.148,
+      "Generosity": 0.169,
+      "Perceptions of corruption": 0.041,
+      "_match_method": "direct_name_match",
+      "_match_key": "madagascar"
     }
   },
   {
@@ -20441,6 +21041,18 @@
       "_match_method": "name_match",
       "_match_key": "india",
       "_original_world_name": "India"
+    },
+    "happiness_data": {
+      "Overall rank": 140,
+      "Score": 4.015,
+      "GDP per capita": 0.755,
+      "Social support": 0.765,
+      "Healthy life expectancy": 0.588,
+      "Freedom to make life choices": 0.498,
+      "Generosity": 0.2,
+      "Perceptions of corruption": 0.085,
+      "_match_method": "direct_name_match",
+      "_match_key": "india"
     }
   },
   {
@@ -20691,6 +21303,18 @@
       "_match_method": "name_match",
       "_match_key": "syria",
       "_original_world_name": "Syria"
+    },
+    "happiness_data": {
+      "Overall rank": 149,
+      "Score": 3.462,
+      "GDP per capita": 0.619,
+      "Social support": 0.378,
+      "Healthy life expectancy": 0.44,
+      "Freedom to make life choices": 0.013,
+      "Generosity": 0.331,
+      "Perceptions of corruption": 0.141,
+      "_match_method": "direct_name_match",
+      "_match_key": "syria"
     }
   },
   {
@@ -20942,6 +21566,18 @@
       "_match_method": "name_match",
       "_match_key": "montenegro",
       "_original_world_name": "Montenegro"
+    },
+    "happiness_data": {
+      "Overall rank": 73,
+      "Score": 5.523,
+      "GDP per capita": 1.051,
+      "Social support": 1.361,
+      "Healthy life expectancy": 0.871,
+      "Freedom to make life choices": 0.197,
+      "Generosity": 0.142,
+      "Perceptions of corruption": 0.08,
+      "_match_method": "direct_name_match",
+      "_match_key": "montenegro"
     }
   },
   {
@@ -21180,6 +21816,18 @@
       "_match_method": "name_match",
       "_match_key": "swaziland",
       "_original_world_name": "Eswatini"
+    },
+    "happiness_data": {
+      "Overall rank": 135,
+      "Score": 4.212,
+      "GDP per capita": 0.811,
+      "Social support": 1.149,
+      "Healthy life expectancy": 0.0,
+      "Freedom to make life choices": 0.313,
+      "Generosity": 0.074,
+      "Perceptions of corruption": 0.135,
+      "_match_method": "direct_name_match",
+      "_match_key": "swaziland"
     }
   },
   {
@@ -21437,6 +22085,18 @@
       "_match_method": "name_match",
       "_match_key": "paraguay",
       "_original_world_name": "Paraguay"
+    },
+    "happiness_data": {
+      "Overall rank": 63,
+      "Score": 5.743,
+      "GDP per capita": 0.855,
+      "Social support": 1.475,
+      "Healthy life expectancy": 0.777,
+      "Freedom to make life choices": 0.514,
+      "Generosity": 0.184,
+      "Perceptions of corruption": 0.08,
+      "_match_method": "direct_name_match",
+      "_match_key": "paraguay"
     }
   },
   {
@@ -21686,6 +22346,18 @@
       "_match_method": "name_match",
       "_match_key": "el salvador",
       "_original_world_name": "El Salvador"
+    },
+    "happiness_data": {
+      "Overall rank": 35,
+      "Score": 6.253,
+      "GDP per capita": 0.794,
+      "Social support": 1.242,
+      "Healthy life expectancy": 0.789,
+      "Freedom to make life choices": 0.43,
+      "Generosity": 0.093,
+      "Perceptions of corruption": 0.074,
+      "_match_method": "direct_name_match",
+      "_match_key": "el salvador"
     }
   },
   {
@@ -21941,6 +22613,18 @@
       "_match_method": "name_match",
       "_match_key": "ukraine",
       "_original_world_name": "Ukraine"
+    },
+    "happiness_data": {
+      "Overall rank": 133,
+      "Score": 4.332,
+      "GDP per capita": 0.82,
+      "Social support": 1.39,
+      "Healthy life expectancy": 0.739,
+      "Freedom to make life choices": 0.178,
+      "Generosity": 0.187,
+      "Perceptions of corruption": 0.01,
+      "_match_method": "direct_name_match",
+      "_match_key": "ukraine"
     }
   },
   {
@@ -22437,6 +23121,18 @@
       "_match_method": "name_match",
       "_match_key": "namibia",
       "_original_world_name": "Namibia"
+    },
+    "happiness_data": {
+      "Overall rank": 113,
+      "Score": 4.639,
+      "GDP per capita": 0.879,
+      "Social support": 1.313,
+      "Healthy life expectancy": 0.477,
+      "Freedom to make life choices": 0.401,
+      "Generosity": 0.07,
+      "Perceptions of corruption": 0.056,
+      "_match_method": "direct_name_match",
+      "_match_key": "namibia"
     }
   },
   {
@@ -22683,6 +23379,18 @@
       "_match_method": "name_match",
       "_match_key": "uae",
       "_original_world_name": "United Arab Emirates"
+    },
+    "happiness_data": {
+      "Overall rank": 21,
+      "Score": 6.825,
+      "GDP per capita": 1.503,
+      "Social support": 1.31,
+      "Healthy life expectancy": 0.825,
+      "Freedom to make life choices": 0.598,
+      "Generosity": 0.262,
+      "Perceptions of corruption": 0.182,
+      "_match_method": "direct_name_match",
+      "_match_key": "united arab emirates"
     }
   },
   {
@@ -22936,6 +23644,18 @@
       "_match_method": "name_match",
       "_match_key": "bulgaria",
       "_original_world_name": "Bulgaria"
+    },
+    "happiness_data": {
+      "Overall rank": 97,
+      "Score": 5.011,
+      "GDP per capita": 1.092,
+      "Social support": 1.513,
+      "Healthy life expectancy": 0.815,
+      "Freedom to make life choices": 0.311,
+      "Generosity": 0.081,
+      "Perceptions of corruption": 0.004,
+      "_match_method": "direct_name_match",
+      "_match_key": "bulgaria"
     }
   },
   {
@@ -23396,6 +24116,18 @@
       "_match_method": "name_match",
       "_match_key": "germany",
       "_original_world_name": "Germany"
+    },
+    "happiness_data": {
+      "Overall rank": 17,
+      "Score": 6.985,
+      "GDP per capita": 1.373,
+      "Social support": 1.454,
+      "Healthy life expectancy": 0.987,
+      "Freedom to make life choices": 0.495,
+      "Generosity": 0.261,
+      "Perceptions of corruption": 0.265,
+      "_match_method": "direct_name_match",
+      "_match_key": "germany"
     }
   },
   {
@@ -23645,6 +24377,18 @@
       "_match_method": "name_match",
       "_match_key": "cambodia",
       "_original_world_name": "Cambodia"
+    },
+    "happiness_data": {
+      "Overall rank": 109,
+      "Score": 4.7,
+      "GDP per capita": 0.574,
+      "Social support": 1.122,
+      "Healthy life expectancy": 0.637,
+      "Freedom to make life choices": 0.609,
+      "Generosity": 0.232,
+      "Perceptions of corruption": 0.062,
+      "_match_method": "direct_name_match",
+      "_match_key": "cambodia"
     }
   },
   {
@@ -23909,6 +24653,18 @@
       "_match_method": "name_match",
       "_match_key": "iraq",
       "_original_world_name": "Iraq"
+    },
+    "happiness_data": {
+      "Overall rank": 126,
+      "Score": 4.437,
+      "GDP per capita": 1.043,
+      "Social support": 0.98,
+      "Healthy life expectancy": 0.574,
+      "Freedom to make life choices": 0.241,
+      "Generosity": 0.148,
+      "Perceptions of corruption": 0.089,
+      "_match_method": "direct_name_match",
+      "_match_key": "iraq"
     }
   },
   {
@@ -24353,6 +25109,18 @@
       "_match_method": "name_match",
       "_match_key": "sweden",
       "_original_world_name": "Sweden"
+    },
+    "happiness_data": {
+      "Overall rank": 7,
+      "Score": 7.343,
+      "GDP per capita": 1.387,
+      "Social support": 1.487,
+      "Healthy life expectancy": 1.009,
+      "Freedom to make life choices": 0.574,
+      "Generosity": 0.267,
+      "Perceptions of corruption": 0.373,
+      "_match_method": "direct_name_match",
+      "_match_key": "sweden"
     }
   },
   {
@@ -24854,6 +25622,18 @@
       "_match_method": "name_match",
       "_match_key": "kyrgyzstan",
       "_original_world_name": "Kyrgyzstan"
+    },
+    "happiness_data": {
+      "Overall rank": 86,
+      "Score": 5.261,
+      "GDP per capita": 0.551,
+      "Social support": 1.438,
+      "Healthy life expectancy": 0.723,
+      "Freedom to make life choices": 0.508,
+      "Generosity": 0.3,
+      "Perceptions of corruption": 0.023,
+      "_match_method": "direct_name_match",
+      "_match_key": "kyrgyzstan"
     }
   },
   {
@@ -25131,6 +25911,18 @@
       "_match_method": "name_match",
       "_match_key": "russia",
       "_original_world_name": "Russia"
+    },
+    "happiness_data": {
+      "Overall rank": 68,
+      "Score": 5.648,
+      "GDP per capita": 1.183,
+      "Social support": 1.452,
+      "Healthy life expectancy": 0.726,
+      "Freedom to make life choices": 0.334,
+      "Generosity": 0.082,
+      "Perceptions of corruption": 0.031,
+      "_match_method": "direct_name_match",
+      "_match_key": "russia"
     }
   },
   {
@@ -25385,6 +26177,18 @@
       "_match_method": "name_match",
       "_match_key": "malaysia",
       "_original_world_name": "Malaysia"
+    },
+    "happiness_data": {
+      "Overall rank": 80,
+      "Score": 5.339,
+      "GDP per capita": 1.221,
+      "Social support": 1.171,
+      "Healthy life expectancy": 0.828,
+      "Freedom to make life choices": 0.508,
+      "Generosity": 0.26,
+      "Perceptions of corruption": 0.024,
+      "_match_method": "direct_name_match",
+      "_match_key": "malaysia"
     }
   },
   {
@@ -25842,6 +26646,18 @@
       "_match_method": "name_match",
       "_match_key": "cyprus",
       "_original_world_name": "Cyprus"
+    },
+    "happiness_data": {
+      "Overall rank": 49,
+      "Score": 6.046,
+      "GDP per capita": 1.263,
+      "Social support": 1.223,
+      "Healthy life expectancy": 1.042,
+      "Freedom to make life choices": 0.406,
+      "Generosity": 0.19,
+      "Perceptions of corruption": 0.041,
+      "_match_method": "direct_name_match",
+      "_match_key": "cyprus"
     }
   },
   {
@@ -26099,6 +26915,18 @@
       "_match_method": "name_match",
       "_match_key": "canada",
       "_original_world_name": "Canada"
+    },
+    "happiness_data": {
+      "Overall rank": 9,
+      "Score": 7.278,
+      "GDP per capita": 1.365,
+      "Social support": 1.505,
+      "Healthy life expectancy": 1.039,
+      "Freedom to make life choices": 0.584,
+      "Generosity": 0.285,
+      "Perceptions of corruption": 0.308,
+      "_match_method": "direct_name_match",
+      "_match_key": "canada"
     }
   },
   {
@@ -26350,6 +27178,18 @@
       "_match_method": "name_match",
       "_match_key": "malawi",
       "_original_world_name": "Malawi"
+    },
+    "happiness_data": {
+      "Overall rank": 150,
+      "Score": 3.41,
+      "GDP per capita": 0.191,
+      "Social support": 0.56,
+      "Healthy life expectancy": 0.495,
+      "Freedom to make life choices": 0.443,
+      "Generosity": 0.218,
+      "Perceptions of corruption": 0.089,
+      "_match_method": "direct_name_match",
+      "_match_key": "malawi"
     }
   },
   {
@@ -26604,6 +27444,18 @@
       "_match_method": "name_match",
       "_match_key": "saudi arabia",
       "_original_world_name": "Saudi Arabia"
+    },
+    "happiness_data": {
+      "Overall rank": 28,
+      "Score": 6.375,
+      "GDP per capita": 1.403,
+      "Social support": 1.357,
+      "Healthy life expectancy": 0.795,
+      "Freedom to make life choices": 0.439,
+      "Generosity": 0.08,
+      "Perceptions of corruption": 0.132,
+      "_match_method": "direct_name_match",
+      "_match_key": "saudi arabia"
     }
   },
   {
@@ -26864,6 +27716,18 @@
       "_match_method": "name_match",
       "_match_key": "bosnia and herzegovina",
       "_original_world_name": "Bosnia and Herzegovina"
+    },
+    "happiness_data": {
+      "Overall rank": 78,
+      "Score": 5.386,
+      "GDP per capita": 0.945,
+      "Social support": 1.212,
+      "Healthy life expectancy": 0.845,
+      "Freedom to make life choices": 0.212,
+      "Generosity": 0.263,
+      "Perceptions of corruption": 0.006,
+      "_match_method": "direct_name_match",
+      "_match_key": "bosnia and herzegovina"
     }
   },
   {
@@ -27118,6 +27982,18 @@
       "_match_method": "name_match",
       "_match_key": "ethiopia",
       "_original_world_name": "Ethiopia"
+    },
+    "happiness_data": {
+      "Overall rank": 134,
+      "Score": 4.286,
+      "GDP per capita": 0.336,
+      "Social support": 1.033,
+      "Healthy life expectancy": 0.532,
+      "Freedom to make life choices": 0.344,
+      "Generosity": 0.209,
+      "Perceptions of corruption": 0.1,
+      "_match_method": "direct_name_match",
+      "_match_key": "ethiopia"
     }
   },
   {
@@ -27375,6 +28251,18 @@
       "_match_method": "name_match",
       "_match_key": "spain",
       "_original_world_name": "Spain"
+    },
+    "happiness_data": {
+      "Overall rank": 30,
+      "Score": 6.354,
+      "GDP per capita": 1.286,
+      "Social support": 1.484,
+      "Healthy life expectancy": 1.062,
+      "Freedom to make life choices": 0.362,
+      "Generosity": 0.153,
+      "Perceptions of corruption": 0.079,
+      "_match_method": "direct_name_match",
+      "_match_key": "spain"
     }
   },
   {
@@ -27627,6 +28515,18 @@
       "_match_method": "name_match",
       "_match_key": "slovenia",
       "_original_world_name": "Slovenia"
+    },
+    "happiness_data": {
+      "Overall rank": 44,
+      "Score": 6.118,
+      "GDP per capita": 1.258,
+      "Social support": 1.523,
+      "Healthy life expectancy": 0.953,
+      "Freedom to make life choices": 0.564,
+      "Generosity": 0.144,
+      "Perceptions of corruption": 0.057,
+      "_match_method": "direct_name_match",
+      "_match_key": "slovenia"
     }
   },
   {
@@ -28765,6 +29665,18 @@
       "_match_method": "name_match",
       "_match_key": "lesotho",
       "_original_world_name": "Lesotho"
+    },
+    "happiness_data": {
+      "Overall rank": 144,
+      "Score": 3.802,
+      "GDP per capita": 0.489,
+      "Social support": 1.169,
+      "Healthy life expectancy": 0.168,
+      "Freedom to make life choices": 0.359,
+      "Generosity": 0.107,
+      "Perceptions of corruption": 0.093,
+      "_match_method": "direct_name_match",
+      "_match_key": "lesotho"
     }
   },
   {
@@ -29454,6 +30366,18 @@
       "_match_method": "name_match",
       "_match_key": "iceland",
       "_original_world_name": "Iceland"
+    },
+    "happiness_data": {
+      "Overall rank": 4,
+      "Score": 7.494,
+      "GDP per capita": 1.38,
+      "Social support": 1.624,
+      "Healthy life expectancy": 1.026,
+      "Freedom to make life choices": 0.591,
+      "Generosity": 0.354,
+      "Perceptions of corruption": 0.118,
+      "_match_method": "direct_name_match",
+      "_match_key": "iceland"
     }
   },
   {
@@ -29717,6 +30641,18 @@
       "_match_method": "name_match",
       "_match_key": "luxembourg",
       "_original_world_name": "Luxembourg"
+    },
+    "happiness_data": {
+      "Overall rank": 14,
+      "Score": 7.09,
+      "GDP per capita": 1.609,
+      "Social support": 1.479,
+      "Healthy life expectancy": 1.012,
+      "Freedom to make life choices": 0.526,
+      "Generosity": 0.194,
+      "Perceptions of corruption": 0.316,
+      "_match_method": "direct_name_match",
+      "_match_key": "luxembourg"
     }
   },
   {
@@ -29975,6 +30911,18 @@
       "_match_method": "name_match",
       "_match_key": "argentina",
       "_original_world_name": "Argentina"
+    },
+    "happiness_data": {
+      "Overall rank": 47,
+      "Score": 6.086,
+      "GDP per capita": 1.092,
+      "Social support": 1.432,
+      "Healthy life expectancy": 0.881,
+      "Freedom to make life choices": 0.471,
+      "Generosity": 0.066,
+      "Perceptions of corruption": 0.05,
+      "_match_method": "direct_name_match",
+      "_match_key": "argentina"
     }
   },
   {
@@ -31281,6 +32229,18 @@
       "_match_method": "name_match",
       "_match_key": "costa rica",
       "_original_world_name": "Costa Rica"
+    },
+    "happiness_data": {
+      "Overall rank": 12,
+      "Score": 7.167,
+      "GDP per capita": 1.034,
+      "Social support": 1.441,
+      "Healthy life expectancy": 0.963,
+      "Freedom to make life choices": 0.558,
+      "Generosity": 0.144,
+      "Perceptions of corruption": 0.093,
+      "_match_method": "direct_name_match",
+      "_match_key": "costa rica"
     }
   },
   {
@@ -31531,6 +32491,18 @@
       "_match_method": "name_match",
       "_match_key": "australia",
       "_original_world_name": "Australia"
+    },
+    "happiness_data": {
+      "Overall rank": 11,
+      "Score": 7.228,
+      "GDP per capita": 1.372,
+      "Social support": 1.548,
+      "Healthy life expectancy": 1.036,
+      "Freedom to make life choices": 0.557,
+      "Generosity": 0.332,
+      "Perceptions of corruption": 0.29,
+      "_match_method": "direct_name_match",
+      "_match_key": "australia"
     }
   },
   {
@@ -31787,6 +32759,18 @@
       "_match_method": "name_match",
       "_match_key": "thailand",
       "_original_world_name": "Thailand"
+    },
+    "happiness_data": {
+      "Overall rank": 52,
+      "Score": 6.008,
+      "GDP per capita": 1.05,
+      "Social support": 1.409,
+      "Healthy life expectancy": 0.828,
+      "Freedom to make life choices": 0.557,
+      "Generosity": 0.359,
+      "Perceptions of corruption": 0.028,
+      "_match_method": "direct_name_match",
+      "_match_key": "thailand"
     }
   },
   {
@@ -32041,6 +33025,18 @@
       "_match_method": "name_match",
       "_match_key": "haiti",
       "_original_world_name": "Haiti"
+    },
+    "happiness_data": {
+      "Overall rank": 147,
+      "Score": 3.597,
+      "GDP per capita": 0.323,
+      "Social support": 0.688,
+      "Healthy life expectancy": 0.449,
+      "Freedom to make life choices": 0.026,
+      "Generosity": 0.419,
+      "Perceptions of corruption": 0.11,
+      "_match_method": "direct_name_match",
+      "_match_key": "haiti"
     }
   },
   {
@@ -32526,6 +33522,18 @@
       "_match_method": "name_match",
       "_match_key": "honduras",
       "_original_world_name": "Honduras"
+    },
+    "happiness_data": {
+      "Overall rank": 59,
+      "Score": 5.86,
+      "GDP per capita": 0.642,
+      "Social support": 1.236,
+      "Healthy life expectancy": 0.828,
+      "Freedom to make life choices": 0.507,
+      "Generosity": 0.246,
+      "Perceptions of corruption": 0.078,
+      "_match_method": "direct_name_match",
+      "_match_key": "honduras"
     }
   },
   {
@@ -33481,6 +34489,18 @@
       "_match_method": "name_match",
       "_match_key": "belarus",
       "_original_world_name": "Belarus"
+    },
+    "happiness_data": {
+      "Overall rank": 81,
+      "Score": 5.323,
+      "GDP per capita": 1.067,
+      "Social support": 1.465,
+      "Healthy life expectancy": 0.789,
+      "Freedom to make life choices": 0.235,
+      "Generosity": 0.094,
+      "Perceptions of corruption": 0.142,
+      "_match_method": "direct_name_match",
+      "_match_key": "belarus"
     }
   },
   {
@@ -33733,6 +34753,18 @@
       "_match_method": "name_match",
       "_match_key": "latvia",
       "_original_world_name": "Latvia"
+    },
+    "happiness_data": {
+      "Overall rank": 53,
+      "Score": 5.94,
+      "GDP per capita": 1.187,
+      "Social support": 1.465,
+      "Healthy life expectancy": 0.812,
+      "Freedom to make life choices": 0.264,
+      "Generosity": 0.075,
+      "Perceptions of corruption": 0.064,
+      "_match_method": "direct_name_match",
+      "_match_key": "latvia"
     }
   },
   {
@@ -34426,6 +35458,18 @@
       "_match_method": "name_match",
       "_match_key": "philippines",
       "_original_world_name": "Philippines"
+    },
+    "happiness_data": {
+      "Overall rank": 69,
+      "Score": 5.631,
+      "GDP per capita": 0.807,
+      "Social support": 1.293,
+      "Healthy life expectancy": 0.657,
+      "Freedom to make life choices": 0.558,
+      "Generosity": 0.117,
+      "Perceptions of corruption": 0.107,
+      "_match_method": "direct_name_match",
+      "_match_key": "philippines"
     }
   },
   {
@@ -34878,6 +35922,18 @@
       "_match_method": "name_match",
       "_match_key": "denmark",
       "_original_world_name": "Denmark"
+    },
+    "happiness_data": {
+      "Overall rank": 2,
+      "Score": 7.6,
+      "GDP per capita": 1.383,
+      "Social support": 1.573,
+      "Healthy life expectancy": 0.996,
+      "Freedom to make life choices": 0.592,
+      "Generosity": 0.252,
+      "Perceptions of corruption": 0.41,
+      "_match_method": "direct_name_match",
+      "_match_key": "denmark"
     }
   },
   {
@@ -35133,6 +36189,18 @@
       "_match_method": "name_match",
       "_match_key": "cameroon",
       "_original_world_name": "Cameroon"
+    },
+    "happiness_data": {
+      "Overall rank": 96,
+      "Score": 5.044,
+      "GDP per capita": 0.549,
+      "Social support": 0.91,
+      "Healthy life expectancy": 0.331,
+      "Freedom to make life choices": 0.381,
+      "Generosity": 0.187,
+      "Perceptions of corruption": 0.037,
+      "_match_method": "direct_name_match",
+      "_match_key": "cameroon"
     }
   },
   {
@@ -35382,6 +36450,18 @@
       "_match_method": "name_match",
       "_match_key": "guinea",
       "_original_world_name": "Guinea"
+    },
+    "happiness_data": {
+      "Overall rank": 118,
+      "Score": 4.534,
+      "GDP per capita": 0.38,
+      "Social support": 0.829,
+      "Healthy life expectancy": 0.375,
+      "Freedom to make life choices": 0.332,
+      "Generosity": 0.207,
+      "Perceptions of corruption": 0.086,
+      "_match_method": "direct_name_match",
+      "_match_key": "guinea"
     }
   },
   {
@@ -35624,6 +36704,18 @@
       "_match_method": "name_match",
       "_match_key": "bahrain",
       "_original_world_name": "Bahrain"
+    },
+    "happiness_data": {
+      "Overall rank": 37,
+      "Score": 6.199,
+      "GDP per capita": 1.362,
+      "Social support": 1.368,
+      "Healthy life expectancy": 0.871,
+      "Freedom to make life choices": 0.536,
+      "Generosity": 0.255,
+      "Perceptions of corruption": 0.11,
+      "_match_method": "direct_name_match",
+      "_match_key": "bahrain"
     }
   },
   {
@@ -36401,6 +37493,18 @@
       "_match_method": "name_match",
       "_match_key": "somalia",
       "_original_world_name": "Somalia"
+    },
+    "happiness_data": {
+      "Overall rank": 112,
+      "Score": 4.668,
+      "GDP per capita": 0.0,
+      "Social support": 0.698,
+      "Healthy life expectancy": 0.268,
+      "Freedom to make life choices": 0.559,
+      "Generosity": 0.243,
+      "Perceptions of corruption": 0.27,
+      "_match_method": "direct_name_match",
+      "_match_key": "somalia"
     }
   },
   {
@@ -36658,6 +37762,18 @@
       "_match_method": "name_match",
       "_match_key": "czechia",
       "_original_world_name": "Czech Republic"
+    },
+    "happiness_data": {
+      "Overall rank": 20,
+      "Score": 6.852,
+      "GDP per capita": 1.269,
+      "Social support": 1.487,
+      "Healthy life expectancy": 0.92,
+      "Freedom to make life choices": 0.457,
+      "Generosity": 0.046,
+      "Perceptions of corruption": 0.036,
+      "_match_method": "direct_name_match",
+      "_match_key": "czechia"
     }
   },
   {
@@ -37561,6 +38677,18 @@
       "_match_method": "name_match",
       "_match_key": "togo",
       "_original_world_name": "Togo"
+    },
+    "happiness_data": {
+      "Overall rank": 139,
+      "Score": 4.085,
+      "GDP per capita": 0.275,
+      "Social support": 0.572,
+      "Healthy life expectancy": 0.41,
+      "Freedom to make life choices": 0.293,
+      "Generosity": 0.177,
+      "Perceptions of corruption": 0.085,
+      "_match_method": "direct_name_match",
+      "_match_key": "togo"
     }
   },
   {
@@ -38013,6 +39141,18 @@
       "_match_method": "name_match",
       "_match_key": "kenya",
       "_original_world_name": "Kenya"
+    },
+    "happiness_data": {
+      "Overall rank": 121,
+      "Score": 4.509,
+      "GDP per capita": 0.512,
+      "Social support": 0.983,
+      "Healthy life expectancy": 0.581,
+      "Freedom to make life choices": 0.431,
+      "Generosity": 0.372,
+      "Perceptions of corruption": 0.053,
+      "_match_method": "direct_name_match",
+      "_match_key": "kenya"
     }
   },
   {
@@ -38638,6 +39778,18 @@
       "_match_method": "name_match",
       "_match_key": "rwanda",
       "_original_world_name": "Rwanda"
+    },
+    "happiness_data": {
+      "Overall rank": 152,
+      "Score": 3.334,
+      "GDP per capita": 0.359,
+      "Social support": 0.711,
+      "Healthy life expectancy": 0.614,
+      "Freedom to make life choices": 0.555,
+      "Generosity": 0.217,
+      "Perceptions of corruption": 0.411,
+      "_match_method": "direct_name_match",
+      "_match_key": "rwanda"
     }
   },
   {
@@ -38889,6 +40041,18 @@
       "_match_method": "name_match",
       "_match_key": "estonia",
       "_original_world_name": "Estonia"
+    },
+    "happiness_data": {
+      "Overall rank": 55,
+      "Score": 5.893,
+      "GDP per capita": 1.237,
+      "Social support": 1.528,
+      "Healthy life expectancy": 0.874,
+      "Freedom to make life choices": 0.495,
+      "Generosity": 0.103,
+      "Perceptions of corruption": 0.161,
+      "_match_method": "direct_name_match",
+      "_match_key": "estonia"
     }
   },
   {
@@ -39143,6 +40307,18 @@
       "_match_method": "name_match",
       "_match_key": "romania",
       "_original_world_name": "Romania"
+    },
+    "happiness_data": {
+      "Overall rank": 48,
+      "Score": 6.07,
+      "GDP per capita": 1.162,
+      "Social support": 1.232,
+      "Healthy life expectancy": 0.825,
+      "Freedom to make life choices": 0.462,
+      "Generosity": 0.083,
+      "Perceptions of corruption": 0.005,
+      "_match_method": "direct_name_match",
+      "_match_key": "romania"
     }
   },
   {
@@ -40132,6 +41308,18 @@
       "_match_method": "name_match",
       "_match_key": "vietnam",
       "_original_world_name": "Vietnam"
+    },
+    "happiness_data": {
+      "Overall rank": 94,
+      "Score": 5.175,
+      "GDP per capita": 0.741,
+      "Social support": 1.346,
+      "Healthy life expectancy": 0.851,
+      "Freedom to make life choices": 0.543,
+      "Generosity": 0.147,
+      "Perceptions of corruption": 0.073,
+      "_match_method": "direct_name_match",
+      "_match_key": "vietnam"
     }
   },
   {
@@ -40382,6 +41570,18 @@
       "_match_method": "name_match",
       "_match_key": "uruguay",
       "_original_world_name": "Uruguay"
+    },
+    "happiness_data": {
+      "Overall rank": 33,
+      "Score": 6.293,
+      "GDP per capita": 1.124,
+      "Social support": 1.465,
+      "Healthy life expectancy": 0.891,
+      "Freedom to make life choices": 0.523,
+      "Generosity": 0.127,
+      "Perceptions of corruption": 0.15,
+      "_match_method": "direct_name_match",
+      "_match_key": "uruguay"
     }
   },
   {
@@ -40806,6 +42006,18 @@
         22.267,
         114.188
       ]
+    },
+    "happiness_data": {
+      "Overall rank": 76,
+      "Score": 5.43,
+      "GDP per capita": 1.438,
+      "Social support": 1.277,
+      "Healthy life expectancy": 1.122,
+      "Freedom to make life choices": 0.44,
+      "Generosity": 0.258,
+      "Perceptions of corruption": 0.287,
+      "_match_method": "direct_name_match",
+      "_match_key": "hong kong"
     }
   },
   {
@@ -41061,6 +42273,18 @@
       "_match_method": "name_match",
       "_match_key": "austria",
       "_original_world_name": "Austria"
+    },
+    "happiness_data": {
+      "Overall rank": 10,
+      "Score": 7.246,
+      "GDP per capita": 1.376,
+      "Social support": 1.475,
+      "Healthy life expectancy": 1.016,
+      "Freedom to make life choices": 0.532,
+      "Generosity": 0.244,
+      "Perceptions of corruption": 0.226,
+      "_match_method": "direct_name_match",
+      "_match_key": "austria"
     }
   },
   {
@@ -41547,6 +42771,18 @@
       "_match_method": "name_match",
       "_match_key": "turkmenistan",
       "_original_world_name": "Turkmenistan"
+    },
+    "happiness_data": {
+      "Overall rank": 87,
+      "Score": 5.247,
+      "GDP per capita": 1.052,
+      "Social support": 1.538,
+      "Healthy life expectancy": 0.657,
+      "Freedom to make life choices": 0.394,
+      "Generosity": 0.244,
+      "Perceptions of corruption": 0.028,
+      "_match_method": "direct_name_match",
+      "_match_key": "turkmenistan"
     }
   },
   {
@@ -41801,6 +43037,18 @@
       "_match_method": "name_match",
       "_match_key": "mozambique",
       "_original_world_name": "Mozambique"
+    },
+    "happiness_data": {
+      "Overall rank": 123,
+      "Score": 4.466,
+      "GDP per capita": 0.204,
+      "Social support": 0.986,
+      "Healthy life expectancy": 0.39,
+      "Freedom to make life choices": 0.494,
+      "Generosity": 0.197,
+      "Perceptions of corruption": 0.138,
+      "_match_method": "direct_name_match",
+      "_match_key": "mozambique"
     }
   },
   {
@@ -42049,6 +43297,18 @@
       "_match_method": "name_match",
       "_match_key": "panama",
       "_original_world_name": "Panama"
+    },
+    "happiness_data": {
+      "Overall rank": 31,
+      "Score": 6.321,
+      "GDP per capita": 1.149,
+      "Social support": 1.442,
+      "Healthy life expectancy": 0.91,
+      "Freedom to make life choices": 0.516,
+      "Generosity": 0.109,
+      "Perceptions of corruption": 0.054,
+      "_match_method": "direct_name_match",
+      "_match_key": "panama"
     }
   },
   {
@@ -42540,6 +43800,18 @@
       "_match_method": "name_match",
       "_match_key": "republic of ireland",
       "_original_world_name": "Republic of Ireland"
+    },
+    "happiness_data": {
+      "Overall rank": 16,
+      "Score": 7.021,
+      "GDP per capita": 1.499,
+      "Social support": 1.553,
+      "Healthy life expectancy": 0.999,
+      "Freedom to make life choices": 0.516,
+      "Generosity": 0.298,
+      "Perceptions of corruption": 0.31,
+      "_match_method": "direct_name_match",
+      "_match_key": "ireland"
     }
   },
   {
@@ -43211,6 +44483,18 @@
       "_match_method": "name_match",
       "_match_key": "norway",
       "_original_world_name": "Norway"
+    },
+    "happiness_data": {
+      "Overall rank": 3,
+      "Score": 7.554,
+      "GDP per capita": 1.488,
+      "Social support": 1.582,
+      "Healthy life expectancy": 1.028,
+      "Freedom to make life choices": 0.603,
+      "Generosity": 0.271,
+      "Perceptions of corruption": 0.341,
+      "_match_method": "direct_name_match",
+      "_match_key": "norway"
     }
   },
   {
@@ -43663,6 +44947,18 @@
       "_match_method": "name_match",
       "_match_key": "central african republic",
       "_original_world_name": "Central African Republic"
+    },
+    "happiness_data": {
+      "Overall rank": 155,
+      "Score": 3.083,
+      "GDP per capita": 0.026,
+      "Social support": 0.0,
+      "Healthy life expectancy": 0.105,
+      "Freedom to make life choices": 0.225,
+      "Generosity": 0.235,
+      "Perceptions of corruption": 0.035,
+      "_match_method": "direct_name_match",
+      "_match_key": "central african republic"
     }
   },
   {
@@ -43911,6 +45207,18 @@
       "_match_method": "name_match",
       "_match_key": "burkina faso",
       "_original_world_name": "Burkina Faso"
+    },
+    "happiness_data": {
+      "Overall rank": 115,
+      "Score": 4.587,
+      "GDP per capita": 0.331,
+      "Social support": 1.056,
+      "Healthy life expectancy": 0.38,
+      "Freedom to make life choices": 0.255,
+      "Generosity": 0.177,
+      "Perceptions of corruption": 0.113,
+      "_match_method": "direct_name_match",
+      "_match_key": "burkina faso"
     }
   },
   {
@@ -44422,6 +45730,18 @@
       "_match_method": "name_match",
       "_match_key": "tanzania",
       "_original_world_name": "Tanzania"
+    },
+    "happiness_data": {
+      "Overall rank": 153,
+      "Score": 3.231,
+      "GDP per capita": 0.476,
+      "Social support": 0.885,
+      "Healthy life expectancy": 0.499,
+      "Freedom to make life choices": 0.417,
+      "Generosity": 0.276,
+      "Perceptions of corruption": 0.147,
+      "_match_method": "direct_name_match",
+      "_match_key": "tanzania"
     }
   },
   {
@@ -44674,6 +45994,18 @@
       "_match_method": "name_match",
       "_match_key": "south korea",
       "_original_world_name": "South Korea"
+    },
+    "happiness_data": {
+      "Overall rank": 54,
+      "Score": 5.895,
+      "GDP per capita": 1.301,
+      "Social support": 1.219,
+      "Healthy life expectancy": 1.036,
+      "Freedom to make life choices": 0.159,
+      "Generosity": 0.175,
+      "Perceptions of corruption": 0.056,
+      "_match_method": "direct_name_match",
+      "_match_key": "south korea"
     }
   },
   {
@@ -44928,6 +46260,18 @@
       "_match_method": "name_match",
       "_match_key": "jordan",
       "_original_world_name": "Jordan"
+    },
+    "happiness_data": {
+      "Overall rank": 101,
+      "Score": 4.906,
+      "GDP per capita": 0.837,
+      "Social support": 1.225,
+      "Healthy life expectancy": 0.815,
+      "Freedom to make life choices": 0.383,
+      "Generosity": 0.11,
+      "Perceptions of corruption": 0.13,
+      "_match_method": "direct_name_match",
+      "_match_key": "jordan"
     }
   },
   {
@@ -45175,6 +46519,18 @@
       "_match_method": "name_match",
       "_match_key": "mauritania",
       "_original_world_name": "Mauritania"
+    },
+    "happiness_data": {
+      "Overall rank": 122,
+      "Score": 4.49,
+      "GDP per capita": 0.57,
+      "Social support": 1.167,
+      "Healthy life expectancy": 0.489,
+      "Freedom to make life choices": 0.066,
+      "Generosity": 0.106,
+      "Perceptions of corruption": 0.088,
+      "_match_method": "direct_name_match",
+      "_match_key": "mauritania"
     }
   },
   {
@@ -45427,6 +46783,18 @@
       "_match_method": "name_match",
       "_match_key": "lithuania",
       "_original_world_name": "Lithuania"
+    },
+    "happiness_data": {
+      "Overall rank": 42,
+      "Score": 6.149,
+      "GDP per capita": 1.238,
+      "Social support": 1.515,
+      "Healthy life expectancy": 0.818,
+      "Freedom to make life choices": 0.291,
+      "Generosity": 0.043,
+      "Perceptions of corruption": 0.042,
+      "_match_method": "direct_name_match",
+      "_match_key": "lithuania"
     }
   },
   {
@@ -45865,6 +47233,18 @@
       "_match_method": "name_match",
       "_match_key": "slovakia",
       "_original_world_name": "Slovakia"
+    },
+    "happiness_data": {
+      "Overall rank": 38,
+      "Score": 6.198,
+      "GDP per capita": 1.246,
+      "Social support": 1.504,
+      "Healthy life expectancy": 0.881,
+      "Freedom to make life choices": 0.334,
+      "Generosity": 0.121,
+      "Perceptions of corruption": 0.014,
+      "_match_method": "direct_name_match",
+      "_match_key": "slovakia"
     }
   },
   {
@@ -46379,6 +47759,18 @@
       "_match_method": "name_match",
       "_match_key": "kazakhstan",
       "_original_world_name": "Kazakhstan"
+    },
+    "happiness_data": {
+      "Overall rank": 60,
+      "Score": 5.809,
+      "GDP per capita": 1.173,
+      "Social support": 1.508,
+      "Healthy life expectancy": 0.729,
+      "Freedom to make life choices": 0.41,
+      "Generosity": 0.146,
+      "Perceptions of corruption": 0.096,
+      "_match_method": "direct_name_match",
+      "_match_key": "kazakhstan"
     }
   },
   {
@@ -46630,6 +48022,18 @@
       "_match_method": "name_match",
       "_match_key": "moldova",
       "_original_world_name": "Moldova"
+    },
+    "happiness_data": {
+      "Overall rank": 71,
+      "Score": 5.529,
+      "GDP per capita": 0.685,
+      "Social support": 1.328,
+      "Healthy life expectancy": 0.739,
+      "Freedom to make life choices": 0.245,
+      "Generosity": 0.181,
+      "Perceptions of corruption": 0.0,
+      "_match_method": "direct_name_match",
+      "_match_key": "moldova"
     }
   },
   {
@@ -46881,6 +48285,18 @@
       "_match_method": "name_match",
       "_match_key": "mali",
       "_original_world_name": "Mali"
+    },
+    "happiness_data": {
+      "Overall rank": 128,
+      "Score": 4.39,
+      "GDP per capita": 0.385,
+      "Social support": 1.105,
+      "Healthy life expectancy": 0.308,
+      "Freedom to make life choices": 0.327,
+      "Generosity": 0.153,
+      "Perceptions of corruption": 0.052,
+      "_match_method": "direct_name_match",
+      "_match_key": "mali"
     }
   },
   {
@@ -47331,6 +48747,18 @@
       "_match_method": "name_match",
       "_match_key": "armenia",
       "_original_world_name": "Armenia"
+    },
+    "happiness_data": {
+      "Overall rank": 116,
+      "Score": 4.559,
+      "GDP per capita": 0.85,
+      "Social support": 1.055,
+      "Healthy life expectancy": 0.815,
+      "Freedom to make life choices": 0.283,
+      "Generosity": 0.095,
+      "Perceptions of corruption": 0.064,
+      "_match_method": "direct_name_match",
+      "_match_key": "armenia"
     }
   },
   {
@@ -48038,6 +49466,18 @@
       "_match_method": "name_match",
       "_match_key": "japan",
       "_original_world_name": "Japan"
+    },
+    "happiness_data": {
+      "Overall rank": 58,
+      "Score": 5.886,
+      "GDP per capita": 1.327,
+      "Social support": 1.419,
+      "Healthy life expectancy": 1.088,
+      "Freedom to make life choices": 0.445,
+      "Generosity": 0.069,
+      "Perceptions of corruption": 0.14,
+      "_match_method": "direct_name_match",
+      "_match_key": "japan"
     }
   },
   {
@@ -48307,6 +49747,18 @@
       "_match_method": "name_match",
       "_match_key": "bolivia",
       "_original_world_name": "Bolivia"
+    },
+    "happiness_data": {
+      "Overall rank": 61,
+      "Score": 5.779,
+      "GDP per capita": 0.776,
+      "Social support": 1.209,
+      "Healthy life expectancy": 0.706,
+      "Freedom to make life choices": 0.511,
+      "Generosity": 0.137,
+      "Perceptions of corruption": 0.064,
+      "_match_method": "direct_name_match",
+      "_match_key": "bolivia"
     }
   },
   {
@@ -48559,6 +50011,18 @@
       "_match_method": "name_match",
       "_match_key": "chile",
       "_original_world_name": "Chile"
+    },
+    "happiness_data": {
+      "Overall rank": 26,
+      "Score": 6.444,
+      "GDP per capita": 1.159,
+      "Social support": 1.369,
+      "Healthy life expectancy": 0.92,
+      "Freedom to make life choices": 0.357,
+      "Generosity": 0.187,
+      "Perceptions of corruption": 0.056,
+      "_match_method": "direct_name_match",
+      "_match_key": "chile"
     }
   },
   {
@@ -49134,6 +50598,18 @@
       "_match_method": "name_match",
       "_match_key": "united states",
       "_original_world_name": "United States"
+    },
+    "happiness_data": {
+      "Overall rank": 19,
+      "Score": 6.892,
+      "GDP per capita": 1.433,
+      "Social support": 1.457,
+      "Healthy life expectancy": 0.874,
+      "Freedom to make life choices": 0.454,
+      "Generosity": 0.28,
+      "Perceptions of corruption": 0.128,
+      "_match_method": "direct_name_match",
+      "_match_key": "united states"
     }
   },
   {
@@ -50261,6 +51737,18 @@
       "_match_method": "name_match",
       "_match_key": "guatemala",
       "_original_world_name": "Guatemala"
+    },
+    "happiness_data": {
+      "Overall rank": 27,
+      "Score": 6.436,
+      "GDP per capita": 0.8,
+      "Social support": 1.269,
+      "Healthy life expectancy": 0.746,
+      "Freedom to make life choices": 0.535,
+      "Generosity": 0.175,
+      "Perceptions of corruption": 0.078,
+      "_match_method": "direct_name_match",
+      "_match_key": "guatemala"
     }
   },
   {
@@ -50511,6 +51999,18 @@
       "_match_method": "name_match",
       "_match_key": "ecuador",
       "_original_world_name": "Ecuador"
+    },
+    "happiness_data": {
+      "Overall rank": 50,
+      "Score": 6.028,
+      "GDP per capita": 0.912,
+      "Social support": 1.312,
+      "Healthy life expectancy": 0.868,
+      "Freedom to make life choices": 0.498,
+      "Generosity": 0.126,
+      "Perceptions of corruption": 0.087,
+      "_match_method": "direct_name_match",
+      "_match_key": "ecuador"
     }
   },
   {
@@ -50969,6 +52469,18 @@
       "_match_method": "name_match",
       "_match_key": "tajikistan",
       "_original_world_name": "Tajikistan"
+    },
+    "happiness_data": {
+      "Overall rank": 74,
+      "Score": 5.467,
+      "GDP per capita": 0.493,
+      "Social support": 1.098,
+      "Healthy life expectancy": 0.718,
+      "Freedom to make life choices": 0.389,
+      "Generosity": 0.23,
+      "Perceptions of corruption": 0.144,
+      "_match_method": "direct_name_match",
+      "_match_key": "tajikistan"
     }
   },
   {
@@ -51220,6 +52732,18 @@
       "_match_method": "name_match",
       "_match_key": "malta",
       "_original_world_name": "Malta"
+    },
+    "happiness_data": {
+      "Overall rank": 22,
+      "Score": 6.726,
+      "GDP per capita": 1.3,
+      "Social support": 1.52,
+      "Healthy life expectancy": 0.999,
+      "Freedom to make life choices": 0.564,
+      "Generosity": 0.375,
+      "Perceptions of corruption": 0.151,
+      "_match_method": "direct_name_match",
+      "_match_key": "malta"
     }
   },
   {
@@ -51464,6 +52988,18 @@
       "_match_method": "name_match",
       "_match_key": "gambia",
       "_original_world_name": "The Gambia"
+    },
+    "happiness_data": {
+      "Overall rank": 120,
+      "Score": 4.516,
+      "GDP per capita": 0.308,
+      "Social support": 0.939,
+      "Healthy life expectancy": 0.428,
+      "Freedom to make life choices": 0.382,
+      "Generosity": 0.269,
+      "Perceptions of corruption": 0.167,
+      "_match_method": "direct_name_match",
+      "_match_key": "gambia"
     }
   },
   {
@@ -51717,6 +53253,18 @@
       "_match_method": "name_match",
       "_match_key": "nigeria",
       "_original_world_name": "Nigeria"
+    },
+    "happiness_data": {
+      "Overall rank": 85,
+      "Score": 5.265,
+      "GDP per capita": 0.696,
+      "Social support": 1.111,
+      "Healthy life expectancy": 0.245,
+      "Freedom to make life choices": 0.426,
+      "Generosity": 0.215,
+      "Perceptions of corruption": 0.041,
+      "_match_method": "direct_name_match",
+      "_match_key": "nigeria"
     }
   },
   {
@@ -52161,6 +53709,18 @@
         42.67,
         21.17
       ]
+    },
+    "happiness_data": {
+      "Overall rank": 46,
+      "Score": 6.1,
+      "GDP per capita": 0.882,
+      "Social support": 1.232,
+      "Healthy life expectancy": 0.758,
+      "Freedom to make life choices": 0.489,
+      "Generosity": 0.262,
+      "Perceptions of corruption": 0.006,
+      "_match_method": "direct_name_match",
+      "_match_key": "kosovo"
     }
   },
   {
@@ -52408,6 +53968,18 @@
       "_match_method": "name_match",
       "_match_key": "kuwait",
       "_original_world_name": "Kuwait"
+    },
+    "happiness_data": {
+      "Overall rank": 51,
+      "Score": 6.021,
+      "GDP per capita": 1.5,
+      "Social support": 1.319,
+      "Healthy life expectancy": 0.808,
+      "Freedom to make life choices": 0.493,
+      "Generosity": 0.142,
+      "Perceptions of corruption": 0.097,
+      "_match_method": "direct_name_match",
+      "_match_key": "kuwait"
     }
   },
   {
@@ -52895,6 +54467,18 @@
       "_match_method": "name_match",
       "_match_key": "south sudan",
       "_original_world_name": "South Sudan"
+    },
+    "happiness_data": {
+      "Overall rank": 156,
+      "Score": 2.853,
+      "GDP per capita": 0.306,
+      "Social support": 0.575,
+      "Healthy life expectancy": 0.295,
+      "Freedom to make life choices": 0.01,
+      "Generosity": 0.202,
+      "Perceptions of corruption": 0.091,
+      "_match_method": "direct_name_match",
+      "_match_key": "south sudan"
     }
   },
   {
@@ -53148,6 +54732,18 @@
       "_match_method": "name_match",
       "_match_key": "iran",
       "_original_world_name": "Iran"
+    },
+    "happiness_data": {
+      "Overall rank": 117,
+      "Score": 4.548,
+      "GDP per capita": 1.1,
+      "Social support": 0.842,
+      "Healthy life expectancy": 0.785,
+      "Freedom to make life choices": 0.305,
+      "Generosity": 0.27,
+      "Perceptions of corruption": 0.125,
+      "_match_method": "direct_name_match",
+      "_match_key": "iran"
     }
   },
   {
@@ -53397,6 +54993,18 @@
       "_match_method": "name_match",
       "_match_key": "albania",
       "_original_world_name": "Albania"
+    },
+    "happiness_data": {
+      "Overall rank": 107,
+      "Score": 4.719,
+      "GDP per capita": 0.947,
+      "Social support": 0.848,
+      "Healthy life expectancy": 0.874,
+      "Freedom to make life choices": 0.383,
+      "Generosity": 0.178,
+      "Perceptions of corruption": 0.027,
+      "_match_method": "direct_name_match",
+      "_match_key": "albania"
     }
   },
   {
@@ -53659,6 +55267,18 @@
       "_match_method": "name_match",
       "_match_key": "brazil",
       "_original_world_name": "Brazil"
+    },
+    "happiness_data": {
+      "Overall rank": 32,
+      "Score": 6.3,
+      "GDP per capita": 1.004,
+      "Social support": 1.439,
+      "Healthy life expectancy": 0.802,
+      "Freedom to make life choices": 0.39,
+      "Generosity": 0.099,
+      "Perceptions of corruption": 0.086,
+      "_match_method": "direct_name_match",
+      "_match_key": "brazil"
     }
   },
   {
@@ -53918,6 +55538,18 @@
       "_match_method": "name_match",
       "_match_key": "serbia",
       "_original_world_name": "Serbia"
+    },
+    "happiness_data": {
+      "Overall rank": 70,
+      "Score": 5.603,
+      "GDP per capita": 1.004,
+      "Social support": 1.383,
+      "Healthy life expectancy": 0.854,
+      "Freedom to make life choices": 0.282,
+      "Generosity": 0.137,
+      "Perceptions of corruption": 0.039,
+      "_match_method": "direct_name_match",
+      "_match_key": "serbia"
     }
   },
   {
@@ -54426,6 +56058,18 @@
       "_match_method": "name_match",
       "_match_key": "burma",
       "_original_world_name": "Myanmar"
+    },
+    "happiness_data": {
+      "Overall rank": 131,
+      "Score": 4.36,
+      "GDP per capita": 0.71,
+      "Social support": 1.181,
+      "Healthy life expectancy": 0.555,
+      "Freedom to make life choices": 0.525,
+      "Generosity": 0.566,
+      "Perceptions of corruption": 0.172,
+      "_match_method": "direct_name_match",
+      "_match_key": "myanmar"
     }
   },
   {
@@ -54674,6 +56318,18 @@
       "_match_method": "name_match",
       "_match_key": "bhutan",
       "_original_world_name": "Bhutan"
+    },
+    "happiness_data": {
+      "Overall rank": 95,
+      "Score": 5.082,
+      "GDP per capita": 0.813,
+      "Social support": 1.321,
+      "Healthy life expectancy": 0.604,
+      "Freedom to make life choices": 0.457,
+      "Generosity": 0.37,
+      "Perceptions of corruption": 0.167,
+      "_match_method": "direct_name_match",
+      "_match_key": "bhutan"
     }
   },
   {
@@ -54925,6 +56581,18 @@
       "_match_method": "name_match",
       "_match_key": "venezuela",
       "_original_world_name": "Venezuela"
+    },
+    "happiness_data": {
+      "Overall rank": 108,
+      "Score": 4.707,
+      "GDP per capita": 0.96,
+      "Social support": 1.427,
+      "Healthy life expectancy": 0.805,
+      "Freedom to make life choices": 0.154,
+      "Generosity": 0.064,
+      "Perceptions of corruption": 0.047,
+      "_match_method": "direct_name_match",
+      "_match_key": "venezuela"
     }
   },
   {
@@ -55174,6 +56842,18 @@
       "_match_method": "name_match",
       "_match_key": "liberia",
       "_original_world_name": "Liberia"
+    },
+    "happiness_data": {
+      "Overall rank": 141,
+      "Score": 3.975,
+      "GDP per capita": 0.073,
+      "Social support": 0.922,
+      "Healthy life expectancy": 0.443,
+      "Freedom to make life choices": 0.37,
+      "Generosity": 0.233,
+      "Perceptions of corruption": 0.033,
+      "_match_method": "direct_name_match",
+      "_match_key": "liberia"
     }
   },
   {
@@ -55419,6 +57099,18 @@
       "_match_method": "name_match",
       "_match_key": "jamaica",
       "_original_world_name": "Jamaica"
+    },
+    "happiness_data": {
+      "Overall rank": 56,
+      "Score": 5.89,
+      "GDP per capita": 0.831,
+      "Social support": 1.478,
+      "Healthy life expectancy": 0.831,
+      "Freedom to make life choices": 0.49,
+      "Generosity": 0.107,
+      "Perceptions of corruption": 0.028,
+      "_match_method": "direct_name_match",
+      "_match_key": "jamaica"
     }
   },
   {
@@ -55674,6 +57366,18 @@
       "_match_method": "name_match",
       "_match_key": "poland",
       "_original_world_name": "Poland"
+    },
+    "happiness_data": {
+      "Overall rank": 40,
+      "Score": 6.182,
+      "GDP per capita": 1.206,
+      "Social support": 1.438,
+      "Healthy life expectancy": 0.884,
+      "Freedom to make life choices": 0.483,
+      "Generosity": 0.117,
+      "Perceptions of corruption": 0.05,
+      "_match_method": "direct_name_match",
+      "_match_key": "poland"
     }
   },
   {
@@ -56370,6 +58074,18 @@
       "_match_method": "name_match",
       "_match_key": "comoros",
       "_original_world_name": "Comoros"
+    },
+    "happiness_data": {
+      "Overall rank": 142,
+      "Score": 3.973,
+      "GDP per capita": 0.274,
+      "Social support": 0.757,
+      "Healthy life expectancy": 0.505,
+      "Freedom to make life choices": 0.142,
+      "Generosity": 0.275,
+      "Perceptions of corruption": 0.078,
+      "_match_method": "direct_name_match",
+      "_match_key": "comoros"
     }
   },
   {
@@ -57311,6 +59027,18 @@
       "_match_method": "name_match",
       "_match_key": "ghana",
       "_original_world_name": "Ghana"
+    },
+    "happiness_data": {
+      "Overall rank": 98,
+      "Score": 4.996,
+      "GDP per capita": 0.611,
+      "Social support": 0.868,
+      "Healthy life expectancy": 0.486,
+      "Freedom to make life choices": 0.381,
+      "Generosity": 0.245,
+      "Perceptions of corruption": 0.04,
+      "_match_method": "direct_name_match",
+      "_match_key": "ghana"
     }
   },
   {
@@ -57567,6 +59295,18 @@
       "_match_method": "name_match",
       "_match_key": "chad",
       "_original_world_name": "Chad"
+    },
+    "happiness_data": {
+      "Overall rank": 132,
+      "Score": 4.35,
+      "GDP per capita": 0.35,
+      "Social support": 0.766,
+      "Healthy life expectancy": 0.192,
+      "Freedom to make life choices": 0.174,
+      "Generosity": 0.198,
+      "Perceptions of corruption": 0.078,
+      "_match_method": "direct_name_match",
+      "_match_key": "chad"
     }
   },
   {
@@ -57882,6 +59622,18 @@
       "_match_method": "name_match",
       "_match_key": "zimbabwe",
       "_original_world_name": "Zimbabwe"
+    },
+    "happiness_data": {
+      "Overall rank": 146,
+      "Score": 3.663,
+      "GDP per capita": 0.366,
+      "Social support": 1.114,
+      "Healthy life expectancy": 0.433,
+      "Freedom to make life choices": 0.361,
+      "Generosity": 0.151,
+      "Perceptions of corruption": 0.089,
+      "_match_method": "direct_name_match",
+      "_match_key": "zimbabwe"
     }
   },
   {
@@ -58333,6 +60085,18 @@
       "_match_method": "name_match",
       "_match_key": "mongolia",
       "_original_world_name": "Mongolia"
+    },
+    "happiness_data": {
+      "Overall rank": 83,
+      "Score": 5.285,
+      "GDP per capita": 0.948,
+      "Social support": 1.531,
+      "Healthy life expectancy": 0.667,
+      "Freedom to make life choices": 0.317,
+      "Generosity": 0.235,
+      "Perceptions of corruption": 0.038,
+      "_match_method": "direct_name_match",
+      "_match_key": "mongolia"
     }
   },
   {
@@ -58584,6 +60348,18 @@
       "_match_method": "name_match",
       "_match_key": "portugal",
       "_original_world_name": "Portugal"
+    },
+    "happiness_data": {
+      "Overall rank": 66,
+      "Score": 5.693,
+      "GDP per capita": 1.221,
+      "Social support": 1.431,
+      "Healthy life expectancy": 0.999,
+      "Freedom to make life choices": 0.508,
+      "Generosity": 0.047,
+      "Perceptions of corruption": 0.025,
+      "_match_method": "direct_name_match",
+      "_match_key": "portugal"
     }
   },
   {
@@ -59309,6 +61085,18 @@
       "_match_method": "name_match",
       "_match_key": "belgium",
       "_original_world_name": "Belgium"
+    },
+    "happiness_data": {
+      "Overall rank": 18,
+      "Score": 6.923,
+      "GDP per capita": 1.356,
+      "Social support": 1.504,
+      "Healthy life expectancy": 0.986,
+      "Freedom to make life choices": 0.473,
+      "Generosity": 0.16,
+      "Perceptions of corruption": 0.21,
+      "_match_method": "direct_name_match",
+      "_match_key": "belgium"
     }
   },
   {
@@ -59567,6 +61355,18 @@
       "_match_method": "name_match",
       "_match_key": "israel",
       "_original_world_name": "Israel"
+    },
+    "happiness_data": {
+      "Overall rank": 13,
+      "Score": 7.139,
+      "GDP per capita": 1.276,
+      "Social support": 1.455,
+      "Healthy life expectancy": 1.029,
+      "Freedom to make life choices": 0.371,
+      "Generosity": 0.261,
+      "Perceptions of corruption": 0.082,
+      "_match_method": "direct_name_match",
+      "_match_key": "israel"
     }
   },
   {
@@ -59823,6 +61623,18 @@
       "_match_method": "name_match",
       "_match_key": "new zealand",
       "_original_world_name": "New Zealand"
+    },
+    "happiness_data": {
+      "Overall rank": 8,
+      "Score": 7.307,
+      "GDP per capita": 1.303,
+      "Social support": 1.557,
+      "Healthy life expectancy": 1.026,
+      "Freedom to make life choices": 0.585,
+      "Generosity": 0.33,
+      "Perceptions of corruption": 0.38,
+      "_match_method": "direct_name_match",
+      "_match_key": "new zealand"
     }
   },
   {
@@ -60073,6 +61885,18 @@
       "_match_method": "name_match",
       "_match_key": "nicaragua",
       "_original_world_name": "Nicaragua"
+    },
+    "happiness_data": {
+      "Overall rank": 45,
+      "Score": 6.105,
+      "GDP per capita": 0.694,
+      "Social support": 1.325,
+      "Healthy life expectancy": 0.835,
+      "Freedom to make life choices": 0.435,
+      "Generosity": 0.2,
+      "Perceptions of corruption": 0.127,
+      "_match_method": "direct_name_match",
+      "_match_key": "nicaragua"
     }
   },
   {

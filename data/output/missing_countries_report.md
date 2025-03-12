@@ -1,8 +1,9 @@
-# Missing Countries Report
+# Missing World Data Report
 
-## Countries that could not be matched:
+## Countries that could not be matched with world data:
 
 - South Georgia: No match found
+- Taiwan: No match found
 - Wallis and Futuna: No match found
 - Pitcairn Islands: No match found
 - Caribbean Netherlands: No match found
@@ -11,13 +12,13 @@
 - Guernsey: No match found
 - Svalbard and Jan Mayen: No match found
 - Faroe Islands: No match found
-- Palestine: No match found
 - Aruba: No match found
 - Cook Islands: No match found
 - Christmas Island: No match found
 - Tokelau: No match found
 - Réunion: No match found
 - Montserrat: No match found
+- United States Virgin Islands: No match found
 - Antarctica: No match found
 - Puerto Rico: No match found
 - Mayotte: No match found
@@ -43,12 +44,14 @@
 - Heard Island and McDonald Islands: No match found
 - Hong Kong: No match found
 - Curaçao: No match found
+- French Guiana: No match found
 - Åland Islands: No match found
 - United States Minor Outlying Islands: No match found
 - Falkland Islands: No match found
 - Jersey: No match found
 - Bermuda: No match found
 - British Indian Ocean Territory: No match found
+- Martinique: No match found
 - Kosovo: No match found
 - Cayman Islands: No match found
 - Guam: No match found
