@@ -43,7 +43,7 @@ Real-time country data retrieved programmatically through REST API integration.
 - Features: Country information, flags, languages, currencies, regional blocs, and more
 - Integration: Direct API calls with data transformation pipelines
 
-### UNESCO World Heritage Sites
+### UNESCO World Heritage Sites 2019
 
 A comprehensive dataset of UNESCO world heritage sites with information about their locations, dates of inscription, and categories.
 
@@ -57,7 +57,7 @@ Detailed information about countries including demographic, economic, and geogra
 - Source: [Kaggle - Countries of the World 2023](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023)
 - Features: Population, GDP, area, capitals, languages, currencies, etc.
 
-### World Happiness Report
+### World Happiness Report 2019
 
 Dataset containing happiness scores and rankings based on various life factors.
 
