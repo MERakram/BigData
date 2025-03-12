@@ -65,6 +65,27 @@ def normalize_country_name(name):
         "palestinian national authority": "palestine",
         "palestinian territories": "palestine",
         "palestine": "palestine",
+        # Additional mappings for UNESCO countries
+        "bolivia (plurinational state of)": "bolivia",
+        "plurinational state of bolivia": "bolivia",
+        "estado plurinacional de bolivia": "bolivia",
+        "cabo verde": "cape verde",
+        "cape verde": "cabo verde",
+        "gambia (the)": "gambia",
+        "the gambia": "gambia",
+        "iran (islamic republic of)": "iran",
+        "islamic republic of iran": "iran",
+        "micronesia (federated states of)": "micronesia",
+        "federated states of micronesia": "micronesia",
+        "venezuela (bolivarian republic of)": "venezuela",
+        "bolivarian republic of venezuela": "venezuela",
+        "república bolivariana de venezuela": "venezuela",
+        # Special case
+        "jerusalem (site proposed by jordan)": "jerusalem",
+        "jerusalem": "israel",  # Consider the political implications of this mapping
+        # Fix other problematic country names
+        "north macedonia": "macedonia",
+        "macedonia": "north macedonia",
     }
 
     return replacements.get(name, name)

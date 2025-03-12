@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project works with various datasets to analyze and visualize big data related to world heritage sites, countries, and happiness indexes.
+This project works with various datasets to analyze and visualize big data related to world heritage sites, countries, and happiness indexes. It's designed to process, analyze, and derive insights from large volumes of structured and unstructured data, making it a true big data project with focus on data integration, processing, and analytics at scale.
 
 ## Installation
 
@@ -34,6 +34,14 @@ This project works with various datasets to analyze and visualize big data relat
 ## Data Sources
 
 This project uses the following external data sources:
+
+### Countries API
+
+Real-time country data retrieved programmatically through REST API integration.
+
+- Source: [REST Countries API](https://restcountries.com/)
+- Features: Country information, flags, languages, currencies, regional blocs, and more
+- Integration: Direct API calls with data transformation pipelines
 
 ### UNESCO World Heritage Sites
 

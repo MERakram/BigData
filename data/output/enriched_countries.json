@@ -3518,7 +3518,7 @@
       "Latitude": 16.5388,
       "Longitude": -23.0418,
       "_match_method": "name_match",
-      "_match_key": "cape verde",
+      "_match_key": "cabo verde",
       "_original_world_name": "Cape Verde"
     }
   },
@@ -6706,7 +6706,7 @@
       "Latitude": 41.608635,
       "Longitude": 21.745275,
       "_match_method": "name_match",
-      "_match_key": "north macedonia",
+      "_match_key": "macedonia",
       "_original_world_name": "North Macedonia"
     }
   },
@@ -42288,7 +42288,7 @@
       "Latitude": 7.425554,
       "Longitude": 150.550812,
       "_match_method": "name_match",
-      "_match_key": "federated states of micronesia",
+      "_match_key": "micronesia",
       "_original_world_name": "Federated States of Micronesia"
     }
   },

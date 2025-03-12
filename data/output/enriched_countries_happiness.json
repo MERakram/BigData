@@ -3626,7 +3626,7 @@
       "Latitude": 16.5388,
       "Longitude": -23.0418,
       "_match_method": "name_match",
-      "_match_key": "cape verde",
+      "_match_key": "cabo verde",
       "_original_world_name": "Cape Verde"
     }
   },
@@ -6910,7 +6910,7 @@
       "Latitude": 41.608635,
       "Longitude": 21.745275,
       "_match_method": "name_match",
-      "_match_key": "north macedonia",
+      "_match_key": "macedonia",
       "_original_world_name": "North Macedonia"
     },
     "happiness_data": {
@@ -40560,6 +40560,18 @@
       "_match_method": "name_match",
       "_match_key": "trinidad and tobago",
       "_original_world_name": "Trinidad and Tobago"
+    },
+    "happiness_data": {
+      "Overall rank": 39,
+      "Score": 6.192,
+      "GDP per capita": 1.231,
+      "Social support": 1.477,
+      "Healthy life expectancy": 0.713,
+      "Freedom to make life choices": 0.489,
+      "Generosity": 0.185,
+      "Perceptions of corruption": 0.016,
+      "_match_method": "fuzzy_match_88",
+      "_match_key": "trinidad & tobago"
     }
   },
   {
@@ -43548,7 +43560,7 @@
       "Latitude": 7.425554,
       "Longitude": 150.550812,
       "_match_method": "name_match",
-      "_match_key": "federated states of micronesia",
+      "_match_key": "micronesia",
       "_original_world_name": "Federated States of Micronesia"
     }
   },
@@ -56069,7 +56081,7 @@
       "Generosity": 0.566,
       "Perceptions of corruption": 0.172,
       "_match_method": "direct_name_match",
-      "_match_key": "myanmar"
+      "_match_key": "burma"
     }
   },
   {

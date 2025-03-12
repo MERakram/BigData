@@ -87,7 +87,8 @@ def match_and_enrich_happiness(countries_data, happiness_data):
     if missed_countries:
         print("\nMissed countries (showing up to 10):")
         for i, (country, reason) in enumerate(list(missed_countries.items())[:10]):
-            print(f"  - {country}: {reason}")
+            # print(f"  - {country}: {reason}")
+            print(f"  - {country}")
 
     return countries_data
 
@@ -115,6 +116,7 @@ def main():
 
     # Save the enriched data
     save_enriched_data(enriched_data, output_path)
+    print(f"\n==================== Report ===================\n")
 
     # Generate missing happiness data report
     missed_countries = get_missed_countries_info(enriched_data, "happiness_data")
