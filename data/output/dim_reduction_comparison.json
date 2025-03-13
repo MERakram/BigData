@@ -1,0 +1,36 @@
+{
+    "t-SNE": {
+        "method": "t-SNE",
+        "parameters": {
+            "perplexity": 30
+        },
+        "execution_time_seconds": 0.4032762050628662,
+        "cluster_separation": 0.4802616238594055,
+        "n_samples": 152,
+        "n_features": 2,
+        "features_used": [
+            "happiness_score",
+            "exchange_rate_eur"
+        ]
+    },
+    "MDS": {
+        "method": "MDS",
+        "parameters": {
+            "metric": true
+        },
+        "execution_time_seconds": 0.02927851676940918,
+        "stress": 63.00284632620558,
+        "cluster_separation": 0.40321485257344775,
+        "n_samples": 152,
+        "n_features": 2,
+        "features_used": [
+            "happiness_score",
+            "exchange_rate_eur"
+        ]
+    },
+    "features_used": [
+        "happiness_score",
+        "gdp_per_capita_eur",
+        "exchange_rate_eur"
+    ]
+}
