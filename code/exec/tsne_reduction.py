@@ -38,7 +38,7 @@ def load_data():
     """Load both normalized country data and cluster information"""
     try:
         # Load normalized data
-        normalized_path = "../../data/output/normalized_countries.json"
+        normalized_path = "../../data/output/normalization/normalized_countries.json"
         if not os.path.exists(normalized_path):
             print(f"Normalized data file not found: {normalized_path}")
             return None
@@ -100,7 +100,7 @@ def load_data():
         normalized_df = pd.DataFrame(countries)
 
         # Load analyzed data with cluster information from CSV
-        analyzed_path = "../../data/output/analyzed_countries.csv"
+        analyzed_path = "../../data/output/analysis/analyzed_countries.csv"
         if not os.path.exists(analyzed_path):
             print(f"Analyzed data with clusters not found: {analyzed_path}")
             return None

@@ -1,0 +1,14 @@
+{
+    "method": "t-SNE",
+    "parameters": {
+        "perplexity": 30
+    },
+    "execution_time_seconds": 0.869297981262207,
+    "cluster_separation": 0.4817400872707367,
+    "n_samples": 152,
+    "n_features": 2,
+    "features_used": [
+        "happiness_score",
+        "exchange_rate_eur"
+    ]
+}
