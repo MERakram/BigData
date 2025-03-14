@@ -1,0 +1,16 @@
+{
+    "method": "LLE",
+    "parameters": {
+        "n_neighbors": 15,
+        "method": "standard"
+    },
+    "reconstruction_error": 8.925914746590507e-06,
+    "execution_time_seconds": 0.07138919830322266,
+    "cluster_separation": 0.4285523625886807,
+    "n_samples": 152,
+    "n_features": 2,
+    "features_used": [
+        "happiness_score",
+        "exchange_rate_eur"
+    ]
+}
